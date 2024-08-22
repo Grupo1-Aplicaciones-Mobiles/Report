@@ -189,20 +189,20 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 Para destacar frente a la competencia, es crucial desarrollar estrategias y tácticas efectivas que permitan diferenciar nuestro producto o servicio y captar la atención del mercado. Algunas estrategias y tácticas que podríamos considerar incluyen:
 <br>
 1.  **Desarrollar una Propuesta de Valor Únic :**
-    * Estrategia: 
-    * Táctica: 
+    * Estrategia: Identificar y comunicar claramente un beneficio único o superior que ofrezca nuestro servicio en comparación con la competencia.
+    * Táctica: Realizar encuestas a usuarios actuales y potenciales para identificar qué aspectos valoran más en un servicio de monitoreo de vehículos. Utilizar esta información para destacar un atributo clave en todos los mensajes de marketing.
 2.  **Enfoque en la Experiencia del Usuario:**
-    * Estrategia: 
-    * Táctica: 
+    * Estrategia: Priorizar la facilidad de uso y la satisfacción del cliente en todos los aspectos del servicio, desde la instalación hasta el soporte.
+    * Táctica: Desarrollar una interfaz de usuario intuitiva y realizar pruebas de usabilidad con grupos de usuarios diversos para asegurar que la aplicación sea fácil de usar.
 3.  **Ampliar la Base de Usuarios:**
-    * Estrategia:
-    * Táctica: 
+    * Estrategia: Expandir el alcance del producto a nuevos segmentos de mercado.
+    * Táctica: Ofrecer pruebas gratuitas o promociones especiales para usuarios primerizos.
 4.  **Marketing Digital Dirigido:**
-    * Estrategia: 
-    * Táctica: 
+    * Estrategia: Utilizar herramientas de marketing digital para llegar de manera efectiva a los segmentos de mercado más relevantes.
+    * Táctica: Implementar campañas de anuncios segmentados en redes sociales y motores de búsqueda, para orientar los anuncios hacia conductores de vehículos en áreas de alto riesgo de robo.
 5.  **Colaboraciones Estratégicas:**
-    * Estrategia: 
-    * Táctica: 
+    * Estrategia: Formar alianzas con otras empresas o instituciones para fortalecer la oferta del producto y aumentar su visibilidad.
+    * Táctica: Establecer asociaciones con aseguradoras de vehículos para ofrecer descuentos a los usuarios que instalen nuestro sistema.
 
 
 ## 2.2. Entrevistas.

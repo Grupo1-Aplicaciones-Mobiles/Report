@@ -3,7 +3,18 @@ La recolección y análisis de requisitos es una etapa fundamental en el desarro
 ## 2.1. Competidores.
 En la siguiente sección se presentarán los competidores, un análisis de las fortalezas de nuestro servicio frente a estas.
 
+LoJack:
+Es un sistema de recuperación de vehículos robados. LoJack utiliza tecnología de radiofrecuencia para rastrear vehículos en caso de robo.
+![LoJack](/assets/chapter02/LoJack-logo.jpeg)
 
+
+En Route Technologies:
+Es una empresa que ofrece soluciones de rastreo y telemetría para vehículos comerciales. Proveen sistemas GPS que permiten a las empresas monitorear en tiempo real la ubicacion de sus flotas, optimizar rutas y mejorar la eficiencia operativa.
+![LoJack](/assets/chapter02/EnRouteTechnologies-logo.png)
+
+CarLock:
+Es un sistema de monitoreo y seguridad para vehículos que se enfoca en prevenir robos. CarLock utiliza un dispositivo que se conecta al puerto OBD del vehículo y a través de una aplicación movil los usuarios pueden recibir alertas en tiempo real.
+![LoJack](/assets/chapter02/CarLock-logo.jpg)
 
 ### 2.1.1. Análisis competitivo.
 El análisis competitivo nos brinda una visión clara de cómo nos comparamos con nuestros competidores en el mercado. Nos ayuda a identificar áreas en las que podemos mejorar, así como oportunidades para diferenciarnos y destacar. Esta comprensión nos permite desarrollar estrategias más efectivas como grupo, lo que nos ayuda a alcanzar nuestros objetivos y mantenernos competitivos en el mercado.<br>
@@ -19,92 +30,86 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 		</tr>
 		<tr>
 			<td colspan="2"></td>
-			<td>Nuestro nombre</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>SafeDrive</td>
+			<td>LoJack</td>
+			<td>En Route Technologies</td>
+			<td>CarLock</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Sistema que mitiga (y previene) los robos a vehículos.</td>
+			<td>Sistema de recuperación de vehículos robados con tecnología avanzada de radiofrecuencia y GPS.</td>
+			<td>Ofrece soluciones de gestión de flotas y rastreo de vehículos mediante GPS.</td>
+			<td>Sistema de monitoreo de vehículos en tiempo real.
+</td>
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-			<td>
-			<td>
-			<td></td>
-			<td> </td>
+			<td>Monitoreo y vigilancia del vehículo en tiempo real.</td>
+			<td>Ofrece una tasa de recuperación de vehículos del 90%, lo que lo convierte en uno de los sistemas más eficaces del mercado.</td>
+			<td>Proporciona soluciones personalizables con capacidades avanzadas de análisis de datos y alertas en tiempo real.</td>
+			<td>Accesible para los consumidores en general, fácil instalación y uso, además de notificaciones inmediatas.</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
 			<td>Mercado objetivo</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Todos los conductores en general; jóvenes y taxistas principalmente.</td>
+			<td>Propietarios de vehículos y aseguradoras</td>
+			<td>Empresas de transporte y logística, grandes flotas comerciales.</td>
+			<td>Conductores individuales, propietarios de pequeños negocios con vehículos, y entusiastas de la tecnología.</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Promociones y anuncios en páginas, sitios web, periódicos, etc., lugares comunes donde se encuentre nuestro segmento objetivo.</td>
+			<td>Presencia sólida en anuncios en televisión, colaboraciones con fuerzas del orden, y asociaciones con aseguradoras.</td>
+			<td>Participaciones en ferias de tecnología y logística.</td>
+			<td>Marketing digital, promociones en redes sociales.</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
-			<td></td>
-			<td></td>
-			<td> </td>
-			<td></td>
+			<td>Dispositivos, servicios y software</td>
+			<td>Sistema de rastreo y recuperación de vehículos, servicios de apoyo al cliente y monitoreo.</td>
+			<td>Software de gestión de flotas, dispositivos GPS, monitoreo de combustible, y rastreo de activos.</td>
+			<td>Dispositivo de rastreo, aplicación móvil, y soporte en línea.</td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Precios basados en suscripción anual o mensual con costos adicionales para servicios premium.</td>
+			<td>Precios basados en la cantidad de vehículos y servicios adicionales contratados.</td>
+			<td>Modelode suscripción mensual.</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Aplicación móvil, distribuidores autorizados, y plataformas en línea.
+</td>
+			<td>Aplicación móvil, plataforma web, y distribuidores corporativos.</td>
+			<td>Disponible en línea, distribuidores y tiendas.</td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Sistema de localización y sensores que muestran el entorno del vehículo en tiempo real.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Eficacia probada en la recuperación de vehículos, tecnología robusta.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Soluciones integradas y personalizables, soporte técnico dedicado.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bajo costo, fácil de usar, y accesible para el mercado masivo.</li>
                 </ul>
             </td>
 		</tr>
@@ -112,26 +117,22 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 			<td>Debilidades</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El sistema aún sigue en procesos de desarrollo y puede no tener todas las funcionalidades completas.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Alto costo de instalación y servicio, dependencia de la cobertura de radiofrecuencia.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Dependencia de una buena conectividad a internet.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Depende de la conexión a internet para funcionar correctamente.</li>
                 </ul>
             </td>
 		</tr>
@@ -139,26 +140,22 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 			<td>Oportunidades</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Reconoce el estado del auto y notifica al usuario.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Expansión a mercados emergentes, integración con nuevas tecnologías como IA.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Integración de IA para optimización predictiva y expansión en mercados internacionales.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Expansión de funcionalidades, como integración con smart homes.</li>
                 </ul>
             </td>
 		</tr>
@@ -166,26 +163,22 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 			<td>Amenazas</td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>El precio puede ser variable y en algunos casos molestoso.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Competencia creciente y adopción de nuevas tecnologías de rastreo.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Innovaciones tecnológicas rápidas en la industria que pueden dejar obsoletas ciertas soluciones.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Riesgo de ciberseguridad y competencia en el mercado de dispositivos IoT.</li>
                 </ul>
             </td>
 		</tr>

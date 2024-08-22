@@ -10,11 +10,11 @@ Es un sistema de recuperación de vehículos robados. LoJack utiliza tecnología
 
 En Route Technologies:
 Es una empresa que ofrece soluciones de rastreo y telemetría para vehículos comerciales. Proveen sistemas GPS que permiten a las empresas monitorear en tiempo real la ubicacion de sus flotas, optimizar rutas y mejorar la eficiencia operativa.
-![LoJack](/assets/chapter02/EnRouteTechnologies-logo.png)
+![EnRouteTechnologies](/assets/chapter02/EnRouteTechnologies-logo.png)
 
 CarLock:
 Es un sistema de monitoreo y seguridad para vehículos que se enfoca en prevenir robos. CarLock utiliza un dispositivo que se conecta al puerto OBD del vehículo y a través de una aplicación movil los usuarios pueden recibir alertas en tiempo real.
-![LoJack](/assets/chapter02/CarLock-logo.jpg)
+![CarLock](/assets/chapter02/CarLock-logo.jpg)
 
 ### 2.1.1. Análisis competitivo.
 El análisis competitivo nos brinda una visión clara de cómo nos comparamos con nuestros competidores en el mercado. Nos ayuda a identificar áreas en las que podemos mejorar, así como oportunidades para diferenciarnos y destacar. Esta comprensión nos permite desarrollar estrategias más efectivas como grupo, lo que nos ayuda a alcanzar nuestros objetivos y mantenernos competitivos en el mercado.<br>

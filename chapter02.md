@@ -211,11 +211,28 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 El diseño de entrevistas nos permitirá recopilar información valiosa sobre las experiencias, perspectivas y necesidades de nuestro grupo objetivo. Esto nos ayudará a comprender mejor sus preocupaciones y expectativas, lo que a su vez nos permitirá desarrollar soluciones más efectivas y adaptadas a sus requerimientos. Además, nos brindará la oportunidad de establecer una conexión significativa con nuestros usuarios, fortaleciendo así nuestra relación con ellos y mejorando la calidad de nuestro producto o servicio.
 <br>
 
-* **Preguntas Iniciales**
-1. ¿Cuál es tu nombre y Apellido?
+* **Información general**
+1. ¿Cuál es tu nombre y ocupación?
 2. ¿Cuál es tu edad?
 3. ¿En que distrito vives?
+4. ¿Que tipo de vehiculo posee?
 
+* **Hábitos de conducción**
+5. ¿Donde suele estacionar su vehículo?
+6. ¿Con que frecuencia utiliza su vehículo(diariamente, semanalmente, ocasionalmente)?
+7. ¿Cual es su principal preocupación en términos de seguridad vehicular?
+8. ¿Ha sido víctima de robo o intento de robo de vehículo anteriormente?
+
+* **Conocimiento y uso de tecnologías de seguridad**
+9. ¿Utiliza actualmente algún sistema de seguridad para su vehículo? Si es así, ¿cuál?
+10. ¿Que caracteristicas de un sistema de seguridad vehicular considera más importantes(rastreo en tiempo real, alertas, facilidad de uso, etc)?
+
+* **Evaluación del producto**
+11. ¿Que le motivaría a probar un nuevo sistema de monitoreo vehicular?
+12. ¿Que aspectos consideraría para decidir entre diferentes sistemas de seguridad?
+
+* **Opiniones y expectativas**
+13. ¿Que mejoras le gustaría ver en los sistemas de seguridad vehicular?
 
 ### 2.2.2. Registro de entrevistas.
 El registro de entrevistas es una herramienta fundamental que nos ayuda a recopilar y organizar la información obtenida durante las entrevistas con nuestros usuarios o clientes. Nos permite documentar de manera estructurada las respuestas, comentarios y observaciones relevantes, lo que facilita su análisis posterior y la identificación de patrones o tendencias. Además, nos proporciona un registro histórico de las interacciones con los usuarios, lo que nos ayuda a mantenernos alineados con sus necesidades y expectativas a lo largo del tiempo.<br>

@@ -315,7 +315,7 @@ El User Journey Mapping es una herramienta  para comprender la experiencia del u
 - **Segmento Objetivo:** 
 
 
-  ![JourneyMap](assets/journey_map_seg01.png)
+  ![JourneyMap](assets/user-journey-mapping.png)
 
 ### 2.3.4. Empathy Mapping.
 Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.

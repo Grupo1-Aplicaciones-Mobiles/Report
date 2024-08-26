@@ -323,7 +323,7 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 
 - **Empathy Map Segmento Objetivo**
 
-  ![EmpathyMap__Segmento](assets/EmpathyMap_Segmento1.png)
+  ![EmpathyMap__Segmento](assets/empathy-mapping.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 El "As-is Scenario Mapping" será una parte fundamental de nuestro enfoque de trabajo, ya que nos permitirá comprender el estado actual de nuestros procesos, identificar áreas de mejora y visualizar los pasos necesarios para alcanzar nuestros objetivos.

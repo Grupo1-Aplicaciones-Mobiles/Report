@@ -259,7 +259,7 @@ La User Task Matrix es una herramienta que nos permite identificar las tareas cl
     <thead>
         <tr>
             <th rowspan="2">Tareas</th>
-            <th colspan="2"></th>
+            <th colspan="2">Conductores que buscan garantizar la seguridad de su vehículo</th>
             <th colspan="2"></th>
         </tr>
         <tr>
@@ -271,51 +271,37 @@ La User Task Matrix es una herramienta que nos permite identificar las tareas cl
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Encontrar estacionamiento seguro</td>
+            <td>Cuando el usuario lo requiera</td>
+            <td>Medio</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Proteger el vehículo contra robos</td>
+            <td>Siempre</td>
+            <td>Alta</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Utilizar la herramienta para recibir alertas de seguridad en tiempo real</td>
+            <td>Siempre</td>
+            <td>Alta</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td>Aprender a usar la herramienta de seguridad de manera efectiva</td>
+            <td>Una sola vez</td>
+            <td>Alta</td>
             <td></td>
             <td></td>
-            <td></td>
+        </tr>
+        <tr>
+            <td>Reportar problemas de seguridad a las autoridades</td>
+            <td>Cuando el usuario lo requiera</td>
+            <td>Alta</td>
             <td></td>
             <td></td>
         </tr>

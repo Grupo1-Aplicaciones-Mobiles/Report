@@ -315,7 +315,7 @@ El User Journey Mapping es una herramienta  para comprender la experiencia del u
 - **Segmento Objetivo:** 
 
 
-  ![JourneyMap](assets/user-journey-mapping.png)
+  ![JourneyMap](assets/chapter02/user-journey-mapping.png)
 
 ### 2.3.4. Empathy Mapping.
 Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
@@ -323,14 +323,14 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 
 - **Empathy Map Segmento Objetivo**
 
-  ![EmpathyMap__Segmento](assets/empathy-mapping.png)
+  ![EmpathyMap__Segmento](assets/chapter02/empathy-mapping.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 El "As-is Scenario Mapping" será una parte fundamental de nuestro enfoque de trabajo, ya que nos permitirá comprender el estado actual de nuestros procesos, identificar áreas de mejora y visualizar los pasos necesarios para alcanzar nuestros objetivos.
 
 - As-Is del segmento objetivo usuario:
 
-  ![As-Is Usuarios](assets/As-Is_Usuarios.jpg)
+  ![As-Is Usuarios](assets/chapter02/as-is-scenario-mapping.jpg)
 
 ## 2.4. Requirements specification. 
 ### 2.4.1. To-Be Scenario Mapping.

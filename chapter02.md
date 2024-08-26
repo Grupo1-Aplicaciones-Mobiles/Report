@@ -237,7 +237,11 @@ El diseño de entrevistas nos permitirá recopilar información valiosa sobre la
 ### 2.2.2. Registro de entrevistas.
 El registro de entrevistas es una herramienta fundamental que nos ayuda a recopilar y organizar la información obtenida durante las entrevistas con nuestros usuarios o clientes. Nos permite documentar de manera estructurada las respuestas, comentarios y observaciones relevantes, lo que facilita su análisis posterior y la identificación de patrones o tendencias. Además, nos proporciona un registro histórico de las interacciones con los usuarios, lo que nos ayuda a mantenernos alineados con sus necesidades y expectativas a lo largo del tiempo.<br>
 dades físicas:
-
+- **Entrevista #1:** <br>
+    Nombre y Apellido: Jean Pierre Grandez <br>
+    Edad:20 años <br>
+    Distrito: Callao <br>
+    ![Entrevista_JeanPierre](assets/chapter02/Entrevista_Jean.png)
 ### 2.2.3. Análisis de entrevistas.
 El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
 <br><br>

@@ -188,7 +188,7 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Para destacar frente a la competencia, es crucial desarrollar estrategias y tácticas efectivas que permitan diferenciar nuestro producto o servicio y captar la atención del mercado. Algunas estrategias y tácticas que podríamos considerar incluyen:
 <br>
-1.  **Desarrollar una Propuesta de Valor Únic :**
+1.  **Desarrollar una Propuesta de Valor Única:**
     * Estrategia: Identificar y comunicar claramente un beneficio único o superior que ofrezca nuestro servicio en comparación con la competencia.
     * Táctica: Realizar encuestas a usuarios actuales y potenciales para identificar qué aspectos valoran más en un servicio de monitoreo de vehículos. Utilizar esta información para destacar un atributo clave en todos los mensajes de marketing.
 2.  **Enfoque en la Experiencia del Usuario:**
@@ -250,7 +250,7 @@ dades físicas:
     Nombre y Apellido: Diego Alonso <br>
     Edad: 22 años <br>
     Distrito: Santiago De Surco <br>
-    [![Entrevista_Diego](assets/chapter02/entrevista-diego.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    [![Entrevista_Diego](assets/chapter02/entrevista-diego.PNG)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
     Inicio de la Entrevista: 0:42 <br>
     Fin de la Entrevista: 4:15 <br>
 ### 2.2.3. Análisis de entrevistas.

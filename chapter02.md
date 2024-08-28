@@ -348,7 +348,14 @@ El "As-is Scenario Mapping" será una parte fundamental de nuestro enfoque de tr
   ![As-Is Usuarios](assets/chapter02/as-is-scenario-mapping.jpg)
 
 ## 2.4. Requirements specification. 
+La especificación de requisitos será una etapa crucial en nuestro trabajo, ya que nos permitirá definir claramente los objetivos y las funcionalidades que nuestro producto debe cumplir.
 ### 2.4.1. To-Be Scenario Mapping.
+El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. Nos ayuda a identificar los cambios necesarios en los procesos actuales y a diseñar soluciones para optimizarlos. Al crear escenarios "To-Be", podemos visualizar claramente cómo se verá el proceso una vez que se implementen las mejoras, lo que nos permite comunicar mejor la visión del proyecto y alinear a todas las partes interesadas en torno a los objetivos comunes. Esto facilita la planificación y la implementación efectiva de los cambios para lograr los resultados deseados.
+
+
+![To-Be Scenario Mapping](assets/chapter02/To-Be Scenario Mapping.png)
+
+Enlace a Miro: https://miro.com/app/board/uXjVKlaIzCk=/?share_link_id=354655837549
 ### 2.4.2. User Stories.
 ###### Tabla de épicas establecidas para las historias de usuarios.
 

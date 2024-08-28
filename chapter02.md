@@ -242,6 +242,9 @@ dades físicas:
     Edad:20 años <br>
     Distrito: Callao <br>
     ![Entrevista_JeanPierre](assets/chapter02/Entrevista_Jean.png)
+    
+    Enlace De Entrevista:
+    - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EXXS9_3A6UBLmdfAYtxPeMcBrNqYUW2ujhSap_2sP7WqoA?e=zk0ZbH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### 2.2.3. Análisis de entrevistas.
 El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
 <br><br>

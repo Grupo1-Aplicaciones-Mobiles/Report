@@ -241,7 +241,14 @@ dades físicas:
     Nombre y Apellido: Jean Pierre Grandez <br>
     Edad:20 años <br>
     Distrito: Callao <br>
-    ![Entrevista_JeanPierre](assets/chapter02/Entrevista_Jean.png)
+    ![Entrevista_JeanPierre](assets/chapter02/Entrevista_Jean.png)<br><br>
+- **Entrevista #2:** <br>
+    Nombre y Apellido: Diego Alonso <br>
+    Edad: 22 años <br>
+    Distrito: Santiago De Surco <br>
+    [![Entrevista_Diego](assets/chapter02/entrevista-diego.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    Inicio de la Entrevista: 0:42 <br>
+    Fin de la Entrevista: 4:15 <br>
 ### 2.2.3. Análisis de entrevistas.
 El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
 <br><br>

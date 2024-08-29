@@ -253,6 +253,16 @@ dades físicas:
     [![Entrevista_Diego](assets/chapter02/entrevista-diego.PNG)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
     Inicio de la Entrevista: 0:42 <br>
     Fin de la Entrevista: 4:15 <br>
+
+- **Entrevista #3:** <br>
+    Nombre y Apellido: Leonel Vasquez <br>
+    Edad:21 años <br>
+    Distrito: Villa María del Triunfo <br>
+    ![Entrevista_Leonel](assets/chapter02/entrevista-leonel.png)<br><br>
+    
+    Enlace De Entrevista:
+    - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EYCgH_pPU6pMtEpUZP7Tv_0BelVyhyZyt5juU5XmfNOhHQ?e=PDGLu2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ 
 ### 2.2.3. Análisis de entrevistas.
 El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
 <br><br>
@@ -275,11 +285,8 @@ La User Task Matrix es una herramienta que nos permite identificar las tareas cl
         <tr>
             <th rowspan="2">Tareas</th>
             <th colspan="2">Conductores que buscan garantizar la seguridad de su vehículo</th>
-            <th colspan="2"></th>
         </tr>
         <tr>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
             <th>Frecuencia</th>
             <th>Importancia</th>
         </tr>

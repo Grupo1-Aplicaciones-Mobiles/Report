@@ -263,8 +263,8 @@ El proceso de needfinding nos permite identificar problemas reales que enfrentan
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 
-- **User Persona Primer  ()**
-  ![UserPersona](assets/)
+- **User Persona**
+  ![UserPersona](assets/chapter02/user-persona.png)
 
 ### 2.3.2. User Task Matrix.
 La User Task Matrix es una herramienta que nos permite identificar las tareas clave que nuestros usuarios necesitan realizar en nuestra aplicación web. Al mapear estas tareas, podemos comprender mejor las necesidades y expectativas de nuestros usuarios, lo que nos ayuda a diseñar una experiencia de usuario más efectiva y centrada en sus requerimientos.
@@ -289,36 +289,26 @@ La User Task Matrix es una herramienta que nos permite identificar las tareas cl
             <td>Encontrar estacionamiento seguro</td>
             <td>Cuando el usuario lo requiera</td>
             <td>Medio</td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Proteger el vehículo contra robos</td>
             <td>Siempre</td>
             <td>Alta</td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Utilizar la herramienta para recibir alertas de seguridad en tiempo real</td>
             <td>Siempre</td>
             <td>Alta</td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Aprender a usar la herramienta de seguridad de manera efectiva</td>
             <td>Una sola vez</td>
             <td>Alta</td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>Reportar problemas de seguridad a las autoridades</td>
             <td>Cuando el usuario lo requiera</td>
             <td>Alta</td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>

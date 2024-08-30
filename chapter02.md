@@ -250,9 +250,11 @@ dades físicas:
     Nombre y Apellido: Diego Alonso <br>
     Edad: 22 años <br>
     Distrito: Santiago De Surco <br>
-    [![Entrevista_Diego](assets/chapter02/entrevista-diego.PNG)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-    Inicio de la Entrevista: 0:42 <br>
-    Fin de la Entrevista: 4:15 <br>
+    [![Entrevista_Diego](assets/chapter02/entrevista-diego.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    Enlace de Entrevista: 
+     - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUB0ly1DwfeznNXG1lgZ6WThQ?e=0Rzv6w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+    <br>Inicio de la Entrevista: 0:42 <br>
+    Fin de la Entrevista: 4:15 <br><br>
 
 - **Entrevista #3:** <br>
     Nombre y Apellido: Leonel Vasquez <br>

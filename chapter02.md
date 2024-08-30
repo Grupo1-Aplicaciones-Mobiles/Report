@@ -246,15 +246,20 @@ dades físicas:
     Enlace De Entrevista:
     - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EXXS9_3A6UBLmdfAYtxPeMcBrNqYUW2ujhSap_2sP7WqoA?e=zk0ZbH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+    **Resumen:**
+    Jean menciona que usa su vehículo de manera interdiaria y suele estacionarlo fuera de casa. Su principal preocupación es el robo, aunque ha tenido intentos de robo sin éxito. Actualmente no utiliza ningún sistema de seguridad adicional, aparte del seguro que viene con el vehículo. Jean considera importante que un sistema de seguridad esté conectado a su dispositivo móvil y le notifique de inmediato sobre intentos de robo. Estaría motivado a probar un nuevo sistema de monitoreo si pudiera garantizar la seguridad de su vehículo. Finalmente, sugiere que los sistemas de seguridad actuales podrían mejorar con funciones como grabación de video cuando se active la alarma.
+
 - **Entrevista #2:** <br>
     Nombre y Apellido: Diego Alonso <br>
     Edad: 22 años <br>
     Distrito: Santiago De Surco <br>
     [![Entrevista_Diego](assets/chapter02/entrevista-diego.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUBQ6FRxRGJIDBZdFxcQMVNVA?e=fDy3A3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
     Enlace de Entrevista: 
-     - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUB0ly1DwfeznNXG1lgZ6WThQ?e=0Rzv6w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
-    <br>Inicio de la Entrevista: 0:42 <br>
-    Fin de la Entrevista: 4:15 <br><br>
+     - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/Efo4qfCePVpKjB7MApswvIUB0ly1DwfeznNXG1lgZ6WThQ?e=0Rzv6w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+    
+    **Resumen:**
+    En la entrevista, Diego habla sobre sus hábitos y preocupaciones relacionadas con la seguridad de su vehículo. Utiliza su automóvil, que fue heredado, principalmente fuera de su casa, ya que no tiene un garaje. Su principal preocupación es el robo, aunque no ha sido víctima directa, pero ha presenciado uno, lo cual le preocupa. Actualmente, solo confía en las medidas de seguridad básicas de su vehículo. Considera que un buen sistema de seguridad debería ofrecer rastreo en tiempo real y alertas fáciles de usar. Estaría motivado a probar un nuevo sistema basado en los resultados y la calidad del mismo. Sugiere que una mejora importante sería recibir detalles precisos sobre el último rastreo del vehículo en caso de robo.
 
 - **Entrevista #3:** <br>
     Nombre y Apellido: Leonel Vasquez <br>
@@ -264,11 +269,27 @@ dades físicas:
     
     Enlace De Entrevista:
     - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EYCgH_pPU6pMtEpUZP7Tv_0BelVyhyZyt5juU5XmfNOhHQ?e=PDGLu2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+    **Resumen:**
+    Lionel nos cuenta que utiliza su auto dos o tres veces por semana, estacionándolo principalmente en su garaje o en la universidad. Su principal preocupación en términos de seguridad es que el vehículo sea dañado o robado si se deja en un lugar inseguro. Aunque no ha sido víctima de robo, su vehículo solo cuenta con la alarma de fábrica. Considera que las características más importantes para un sistema de seguridad serían un localizador GPS y un inmovilizador. Lionel estaría dispuesto a probar un nuevo sistema de monitoreo en tiempo real si ofrece mayor seguridad. Valora la precisión, accesibilidad desde el teléfono y la ausencia de errores en los sistemas de seguridad actuales.
  
 ### 2.2.3. Análisis de entrevistas.
 El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
 <br><br>
 - #### Analisis Segmento:
+    Para el análisis de las entrevistas realizadas, se identifican varias características comunes entre los entrevistados que son relevantes para la construcción de arquetipos de usuarios en el segmento objetivo de personas que poseen y utilizan vehículos. A continuación, se presenta un análisis de estas características:
+
+    * **Ubicación y tipo de Vehículo:** Los entrevistados viven en distritos de Lima. Todos poseen automóviles, algunos heredados y otros comprados por ellos mismos.
+
+    * **Hábitos de estacionamiento y uso del vehículo:** Los entrevistados suelen estacionar sus vehículos fuera de casa, en aparcamientos públicos o en garajes. El uso del vehículo varía, con algunos utilizándolo diariamente y otros semanalmente. Esto refleja la importancia de tener acceso a estacionamientos seguros, ya que los vehículos están expuestos a posibles riesgos fuera de casa.
+
+    * **Preocupaciones de seguridad:** La principal preocupación de seguridad vehicular entre los entrevistados es el riesgo de robo del vehículo o de sus piezas. Aunque ninguno ha sido víctima de un robo completo, algunos han experimentado intentos de robo, lo que resalta la necesidad de sistemas de seguridad más robustos.
+
+    * **Uso de tecnologías de seguridad:** Actualmente, los entrevistados solo utilizan las medidas de seguridad estándar proporcionadas por el fabricante del vehículo, como alarmas básicas. Sin embargo, muestran interés en sistemas de seguridad más avanzados que incluyan rastreo en tiempo real y alertas móviles.
+
+    * **Motivación para adoptar nuevas tecnologías:** Los entrevistados estarían dispuestos a probar nuevos sistemas de monitoreo vehicular si estos ofrecen mayor seguridad y precisión. La facilidad de uso y la capacidad de recibir alertas en tiempo real son características altamente valoradas.
+
+    * **Preferencias en sistemas de seguridad:** Los entrevistados prefieren sistemas de seguridad que sean accesibles desde dispositivos móviles, que ofrezcan localización en tiempo real y que sean precisos sin generar falsas alarmas. El costo también es un factor importante en la decisión de adoptar estos sistemas.
 
 ## 2.3. Needfinding.
 El proceso de needfinding nos permite identificar problemas reales que enfrentan los usuarios y descubrir oportunidades de diseño que pueden llevar a soluciones innovadoras y centradas en el usuario.

@@ -1,10 +1,14 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/UPC_logo_transparente.png)
-# Aplicaciones para Dispositivos Móviles (WV61)
-## PROFESOR: Jorge Luis Mayta Guillermo
-## "Informe De Trabajo Final Aplicaciones para Dispositivos Móviles"
-## STARTUP: SafeDrive
-## NOMBRE DEL PRODUCTO: SafeDrive
+# <center> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+<div style="text-align: center;">  
+<img src="assets/UPC_logo_transparente.png"  alt="">
+</div>
+
+# <center> Aplicaciones para Dispositivos Móviles (WV61)
+## <center>  PROFESOR: Jorge Luis Mayta Guillermo 
+## <center> "Informe De Trabajo Final Aplicaciones para Dispositivos Móviles" 
+## <center>  STARTUP: SafeDrive 
+## <center>  NOMBRE DEL PRODUCTO: SafeDrive 
+
 - - -
 ### INTEGRANTES
 
@@ -13,7 +17,7 @@
 - Fabrizio Alessandro Sanchez Zamora    (U202213652)
 - Moises Rodolfo Donayre Peña           (u202216021)
 
-### FECHA: AGOSTO 2024
+### <center> FECHA: AGOSTO 2024
 
 - - - 
 

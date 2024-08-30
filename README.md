@@ -137,10 +137,10 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Ralizadas | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |                    |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              |                    |              |
+| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                           | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Diego Cueto Dominguez - TB1**<BR> Desarrollar el proyecto en github utilizando gitflow me ayudó a mantener y controlar los avances con eficacia. Mantener el orden y consitencia en este proyecto es muy importante para el correcto progreso de este. | ***TB1***:   |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Diego Cueto Dominguez - TB1**<BR> La investegación de fuentes confiables y entrevistas realizadas me ayudó a comprender mejor el problema a tratar y la importancia del impacto que puede generar nuestra solución propuesta.                          | ***TB1***:              |
 
 # Smart Goals
 

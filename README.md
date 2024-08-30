@@ -23,9 +23,9 @@
 
 # Registro de Versiones del Informe
 
-| Versión               | Fecha    | Autores                                                                                                                    | Descripción de Modificación                 |
-|-----------------------|----------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Primera entrega (TB1) | -/-/2024 | - Paolo Del Carmen Martinez Villanueva<br/> - Juan Diego Cueto Dominguez  <br/> - Fabrizio Alessandro Sanchez Zamora<br/> - Moises Rodolfo Donayre Peña |  |
+| Versión               | Fecha      | Autores                                                                                                                    | Descripción de Modificación                                                              |
+|-----------------------|------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Primera entrega (TB1) | 30/08/2024 | - Paolo Del Carmen Martinez Villanueva<br/> - Juan Diego Cueto Dominguez  <br/> - Fabrizio Alessandro Sanchez Zamora<br/> - Moises Rodolfo Donayre Peña | Se avanzaó los siguentes puntos: <br> - Student Outcome<br/> - Chapter 1<br/>- Chapter 2 |
 
 - - -
 # Project Report Collaboration
@@ -141,10 +141,41 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                           | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Diego Cueto Dominguez - TB1**<BR> Desarrollar el proyecto en github utilizando gitflow me ayudó a mantener y controlar los avances con eficacia. Mantener el orden y consitencia en este proyecto es muy importante para el correcto progreso de este. | ***TB1***:   |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Diego Cueto Dominguez - TB1**<BR> La investegación de fuentes confiables y entrevistas realizadas me ayudó a comprender mejor el problema a tratar y la importancia del impacto que puede generar nuestra solución propuesta.                          | ***TB1***:              |
+| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | *****TB1*****<br><br>    **Juan Diego Cueto Dominguez - TB1**<BR> Desarrollar el proyecto en github utilizando gitflow me ayudó a mantener y controlar los avances con eficacia. Mantener el orden y consitencia en este proyecto es muy importante para el correcto progreso de este. <br><br>**Fabrizio Sanchez:**<br> Al trabajar de manera organizada haciendo uso del lenguaje markdown junto con gitflow, nos permitió mantener un orden establecido de manera que todos los integrantes podemos avanzar con lsas diversas tareas asignadas. | ***TB1***:   |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | *****TB1*****<br><br>    **Juan Diego Cueto Dominguez - TB1**<BR> La investegación de fuentes confiables y entrevistas realizadas me ayudó a comprender mejor el problema a tratar y la importancia del impacto que puede generar nuestra solución propuesta.   <br><br>**Fabrizio Sanchez:**<br>  Gracias a la investigación de fuentes académicas a lo largo de la documentación del proyecto, pude entender hacia donde queremos llegar como startup y tambien comprendí los problemas a los que debemos darle solución.                        | ***TB1***:              |
 
 # Smart Goals
-
+<table style="text-align: center;">
+    <tbody>
+		<tr>
+			<td colspan="9">METODOLOGÍA SMART</td>
+		</tr>
+        <tr>
+			<td rowspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td rowspan="2" >Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+            <td>S <br> Specific <br> Específico</td>
+            <td>M <br> Measureable <br> Medible</td>
+            <td>A <br> Ambitious <br> Ambicioso</td>
+            <td>R <br> Relevant <br> Relevante</td>
+            <td>T <br> Time-Bound <br> Tiempo Límite</td>
+       </tr>
+        <tr>
+            <td>¿Qué se va a lograr? <br><br> El objetivo indica con especificidad, cuál es el proceso, servicio o producto en cuestión, para qué área es relevante, u otro detalle clave que brinde contexto.</td>
+            <td>¿Tiene KPI o métrica clara? <br><br> El enunciado tiene una meta con indicador (KPI) o métrica clara, que determinará si el objetivo se cumplió. Idealmente, describe el impacto (lo que vamos a lograr) más que el entregable (lo que vamos a hacer).</td>
+            <td>¿Es retador y va más allá de sus funciones? <br><br> El objetivo inspira y reta a pensar acciones para dar el salto que se requiere para el logro, no se lograría sin una estrategia y un foco potentes.</td>
+            <td>¿Está alineado a la estratégia? <br><br> Existe una explicación clara respecto a cómo el objetivo impacta sobre los objetivos estratégicos de la Institución o Laureate Perú. Brinda una noción del alcance del objetivo.</td>
+            <td>¿Cuándo se cumplirá? <br><br> En caso que la expectativa de fecha de cumplimiento sea previa al cierre de año, el enunciado contiene de forma explícita la fecha límite para alcanzar el objetivo</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>

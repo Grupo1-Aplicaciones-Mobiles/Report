@@ -179,3 +179,6 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
         </tr>
     </tbody>
 </table>
+
+# Conclusiones
+Para esta primera entrega la investigación exhaustiva de fuentes confiables, académicas y la realización de entrevistas fueron fundamentales para entender el problema a resolver. Este enfoque permitió al equipo identificar claramente los desafíos y el impacto que la solución podría tener, asegurando que el proyecto estuviera bien dirigido hacia las necesidades de los usuarios. El análisis y la comprensión profunda del problema, especialmente desde la perspectiva del usuario clave, orientaron el desarrollo de una solución que no solo aborda los problemas identificados, sino que también está alineada con los objetivos de la startup. Este enfoque centrado en el usuario fue crucial para asegurar la relevancia y efectividad de la propuesta.

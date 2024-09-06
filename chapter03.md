@@ -28,14 +28,42 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 <br><br>
 
 ## 3.1.3. Landing Page UI Design. 
-
+El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.
 ### 3.1.3.1. Landing Page Wireframe.
+Enlace a los wireframes de la landing page de SafeDrive.<br>
+https://www.figma.com/design/Sr9pPT2n1pHLZJpXgKORls/SafeDrive-LandingPage-Wireframe?node-id=0-1&t=dQkuYGVoYFoVe9Hh-1
+
+
+![Landing Page Wireframe](assets/Landing_Page_Wireframe1.png)
+![Landing Page Wireframe](assets/Landing_Page_Wireframe2.png)
+![Landing Page Wireframe](assets/Landing_Page_Wireframe3.png)
 ### 3.1.3.2. Landing Page Mock-up. 
+Enlace a los Mockups de la landing page de SafeDrive.<br>
+https://www.figma.com/design/Sr9pPT2n1pHLZJpXgKORls/SafeDrive-LandingPage-Wireframe?node-id=0-1&t=dQkuYGVoYFoVe9Hh-1
+
+![Landing Page Wireframe](assets/Landing_Page_Mockup1.png)
+![Landing Page Wireframe](assets/Landing_Page_Mockup2.png)
+![Landing Page Wireframe](assets/Landing_Page_Mockup3.png)
 
 ## 3.1.4 Mobile Applications UX/UI Design. 
+El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) para aplicaciones móbiles implica crear una experiencia digital que sea intuitiva, eficiente y satisfactoria para los usuarios. La UX se centra en comprender las necesidades y expectativas del usuario, así como en diseñar flujos de trabajo y arquitectura de información que faciliten la interacción. Por otro lado, la UI se refiere al aspecto visual de la aplicación, incluyendo el diseño de elementos como botones, menús, y la disposición de contenido. Un diseño UX/UI efectivo combina la estética atractiva con la funcionalidad fácil de usar, lo que resulta en una experiencia positiva y memorable para los usuarios.
 ####  3.1.4.1. Mobile Applications Wireframe.
+Enlace a los wireframes de la MobileApp de SafeDrive.<br>
+https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-1&t=bKChoXX6AuLIexwP-1
+
+![MobileApp Wireframe](assets/MobileApp_Wireframe1.png)
+![MobileApp Wireframe](assets/MobileApp_Wireframe2.png)
+![MobileApp Wireframe](assets/MobileApp_Wireframe3.png)
+
 ####  3.1.4.2  Mobile Applications Wireflow Diagrams. 
 ####  3.1.4.3. Mobile Applications Mock-ups.
+Enlace a los Mockups de la MobileApp de SafeDrive.<br>
+https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-1&t=bKChoXX6AuLIexwP-1
+
+![Landing Page Wireframe](assets/MobileApp_Mockup1.png)
+![Landing Page Wireframe](assets/MobileApp_Mockup2.png)
+![Landing Page Wireframe](assets/MobileApp_Mockup3.png)
+
 ####  3.1.4.4. Mobile Applications User Flow Diagrams. 
 ####  3.1.4.5. Mobile Applications Prototyping. 
 

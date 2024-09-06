@@ -52,7 +52,7 @@ Enlace a los wireframes de la MobileApp de SafeDrive.<br>
 https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-1&t=bKChoXX6AuLIexwP-1
 
 ![MobileApp Wireframe](assets/MobileApp_Wireframe1.png)
-![MobileApp Wireframe](assets/MobileApp_Wireframe2.png) 
+![MobileApp Wireframe](assets/MobileApp__Wireframe2.png) 
 ![MobileApp Wireframe](assets/MobileApp_Wireframe3.png)
 
 ####  3.1.4.2  Mobile Applications Wireflow Diagrams. 
@@ -61,7 +61,7 @@ Enlace a los Mockups de la MobileApp de SafeDrive.<br>
 https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-1&t=bKChoXX6AuLIexwP-1
 
 ![Landing Page Wireframe](assets/MobileApp_Mockup1.png)
-![Landing Page Wireframe](assets/MobileApp_Mockup2.png)
+![Landing Page Wireframe](assets/MobileApp__Mockup2.png)
 ![Landing Page Wireframe](assets/MobileApp_Mockup3.png)
 
 ####  3.1.4.4. Mobile Applications User Flow Diagrams. 

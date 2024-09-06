@@ -56,6 +56,8 @@ https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-
 ![MobileApp Wireframe](assets/MobileApp_Wireframe3.png)
 
 ####  3.1.4.2  Mobile Applications Wireflow Diagrams. 
+Mobile Applications Wireflow Diagrams son representaciones visuales de los flujos de navegación y la arquitectura de una aplicación web. Estos diagramas combinan elementos de wireframes y diagramas de flujo para proporcionar una vista general de cómo los usuarios navegarán a través de la aplicación y cómo interactuarán con ella. Los wireflows son útiles para identificar posibles problemas de usabilidad y diseñar una experiencia de usuario coherente y eficiente. <br>
+![Landing Page Wireframe](assets/WireFlow_SafeDrive.png)
 ####  3.1.4.3. Mobile Applications Mock-ups.
 Enlace a los Mockups de la MobileApp de SafeDrive.<br>
 https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-1&t=bKChoXX6AuLIexwP-1
@@ -65,6 +67,10 @@ https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-
 ![Landing Page Wireframe](assets/MobileApp_Mockup3.png)
 
 ####  3.1.4.4. Mobile Applications User Flow Diagrams. 
+El diagrama de flujo de usuario es una representación visual de los pasos que un usuario sigue al interactuar con una aplicación móbil. Muestra la secuencia de acciones que el usuario realiza para completar una tarea específica, lo que nos ayuda a identificar posibles puntos de fricción y a optimizar la experiencia del usuario. <br>
+
+![Landing Page Wireframe](assets/UserFlow_SafeDrive.png)
+
 ####  3.1.4.5. Mobile Applications Prototyping. 
 
 ## 3.2. Architecture Overview. 

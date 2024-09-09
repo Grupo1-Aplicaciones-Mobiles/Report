@@ -75,7 +75,10 @@ El diagrama de flujo de usuario es una representación visual de los pasos que u
 
 ## 3.2. Architecture Overview. 
 ### 3.2.1. Domain-Driven Software Architecture.
+El desarrollo de software basado en la arquitectura orientada al dominio (DDD) será fundamental para nuestro proyecto. Esta metodología nos permitirá diseñar sistemas de software que reflejen de manera precisa y efectiva el dominio del problema que estamos abordando. Al aplicar los principios de DDD, podremos identificar y modelar correctamente las entidades, agregados y contextos del dominio, lo que nos permitirá construir una arquitectura de software flexible, escalable y fácil de mantener.
+
 #### 3.2.1.1. Software Architecture Context Level Diagram.
+![Context Diagram](assets/context-diagram.png)
 #### 3.2.1.2. Software Architecture Container Level Diagram.
 #### 3.2.1.3. Software Architecture Components Diagram. 
 ###  3.2.2. Software Object-Oriented Design.

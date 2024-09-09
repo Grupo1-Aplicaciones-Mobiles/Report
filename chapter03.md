@@ -81,7 +81,15 @@ El desarrollo de software basado en la arquitectura orientada al dominio (DDD) s
 ![Context Diagram](assets/context-diagram.png)
 #### 3.2.1.2. Software Architecture Container Level Diagram.
 ![Container Diagram](assets/container-diagram.png)
-#### 3.2.1.3. Software Architecture Components Diagram. 
+#### 3.2.1.3. Software Architecture Components Diagram.
+Auth Context
+![Component Diagram](assets/auth-component.png)
+
+Profile Context
+![Component Diagram](assets/profile-component.png)
+
+Tracking Context
+![Component Diagram](assets/tracking-component.png)
 ###  3.2.2. Software Object-Oriented Design.
 #### 3.2.2.1. Class Diagrams. 
 #### 3.2.2.2. Class Dictionary. 

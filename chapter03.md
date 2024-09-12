@@ -6,6 +6,29 @@ El product design será fundamental para nuestro trabajo, ya que nos permitirá 
 Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros trabajos creativos. A continuación, se detallan las especificaciones de los parámetros implementados en la estructura del proyecto.
 ### 3.1.1.1 General Style Guidelines
 
+- Logo:
+
+El logo de la aplicación presenta un diseño sencillo pero significativo. El fondo moradp, con una gradación de tonos, evoca tranquilidad y confianza. En el centro, encontramos un logo que combina un automóvil y un escudo. Este diseño simboliza la protección y seguridad de los vehículos, comunicando claramente el propósito del proyecto.
+
+![Logo](assets/logo.png)
+
+- Tipografía:
+
+La tipografía influye directamente en cómo los usuarios interpretan el contenido, y la fuente Atlata ha sido elegida por su estilo moderno y atractivo, lo que la hace ideal para una aplicación enfocada en tecnología y seguridad. Además, su claridad y carácter legible refuerzan la idea de confianza y fiabilidad que "SECURCAR" busca transmitir, complementando a la perfección los colores seleccionados en el diseño.
+
+![Typography](assets/typography.png)
+
+- Colores:
+
+La eleccion de los colores para nuestra plataforma es fundamental, ya que tienen un gran impacto en la coherencia visual del diseño. Además, los colores transmiten emociones y mensaje específicos, por lo que ingluten en la atraccion visual de nuestro producto.
+
+En "SafeDrive", el color azul se ha seleccionado como color principal, pues es sinónimo de confianza, tecnología y seguridad, siendo estos, atributos clave para la aplicación. El blanco es importante dentro de la paleta, su uso aporta claridad y limpieza al diseño, además de evocar simplicidad y pureza, lo que complementa con la eleccion del color azul. El color lila lo usamos como degradado con el azul, este tono refleja creatividad y calma, añadiendo originalidad al diseño.
+
+La eleccion de estos colores permiten un diseño coherente, atractivo y accesible que mejora la experiencia del usuario y comunica de manera efectiva los valores que "SafeDrive" transmite.
+
+![Colors](assets/colors.png)
+
+
 # 3.1.2. Information Architecture. 
 <td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
 

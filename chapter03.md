@@ -30,25 +30,78 @@ La eleccion de estos colores permiten un diseño coherente, atractivo y accesibl
 
 
 # 3.1.2. Information Architecture. 
-<td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
+<td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de SafeDrive. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
 
 ## 3.1.2.1.Organization Systems.
+
+El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. 
+
+Para nuestra landing page ,destacamos secciones importantes en la barra de navegación, estos son: "Home", Ubicación", "Ofrecemos", "Beneficios", "Nosotros" y "Contacto". 
+
+* Página principal: La parte superior de la página presenta una sección principal destacada con el título "SafeDrive" y una breve descripción de la plataforma, en la que se destaca su objetivo principal de garantizar la seguridad de los vehículos desde cualquier lugar.
+
+*  Ubicación: Esta sección presenta la principal característica de la plataforma: el seguimiento de la ubicación del vehículo.
+Hay un título "Ubicación" con una breve descripción debajo, en la que se explica que los usuarios pueden registrar su vehículo para conocer siempre su ubicación, junto con un sistema de alerta de actividades sospechosas.
+
+* Ofrecemos: Esta sección muestra las características que ofrece SafeDrive.
+Contiene tres elementos: un dispositivo de seguimiento, asistencia para principiantes y avisos de caducidad, cada uno de ellos acompañado de un icono y un botón "Más" para obtener más detalles.
+
+* Beneficios: La sección de beneficios destaca las ventajas de utilizar las funciones de SafeDrive, como las alertas de robo, el mantenimiento de los documentos en orden y los consejos de conducción.
+Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y descripciones concisas, lo que facilita a los usuarios la comprensión del valor del servicio.
+
+* Nosotros: En esta sección se presentan los antecedentes de la empresa y su misión. El texto describe SafeDrive como una startup peruana centrada en reducir el robo de vehículos y ayudar a los conductores principiantes.
+
+* Contacto: Esta sección presenta un sencillo formulario de contacto con campos para correo electrónico, número de teléfono y nombre, que permite a los usuarios ponerse en contacto.
 
 ## 3.1.2.2 Labeling Systems.
 <td>Para los sistemas de etiquetado, hemos optado por organizar el contenido mediante encabezados que agrupen las secciones a las que el usuario puede acceder. De esta manera, el usuario sabe dónde hacer clic para acceder a las secciones correspondientes.</td>
 
+<br>
+
+1. Secciones:
+* "Home": Pagina principal.
+* "Ubicación": Informacion de la capacidad de nuestra startup.
+* "Ofrecemos": Funcionalidades disponibles del servicio.
+* "Beneficios": Ventajas de las caracteristicas dadas anteriormente.
+* "Nosotros": Mencionamos nuestro objetivo como startup a los usuarios.
+* "Contacto": Comunicacion con nosotros mediante un formulario.
+
+2. Botones:
+* Registrarse: Los usuarios pueden crear una cuenta desde el sitio web.
+* Iniciar sesión: Permite a los usuarios ingresar a sus cuentas registradas.
+* Enviar: Envía el formulario de contacto.
+* Descargar en Google Play Store: Enlace para descargar la aplicación desde Google Play Store.
+* Descargar en la App Store: Enlace para descargar la aplicación desde la App Store.
+
+3. Formulario de contacto:
+* "Email": Espacio para que el visitante coloque su correo electrónico.
+* "Teléfono": Espacio para que el visitante coloque su telefono.
+* "Nombre": Espacio para que el visitante coloque su nombre. 
+
 ### 3.1.2.3 SEO Tags and Meta Tags. 
 <td>Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda.</td>
 <br><br>
+
+**Title**: SafeDrive - Soluciones Avanzadas de Seguridad Vehicular<br>
+**Description**: Descubre SafeDrive, una aplicación innovadora que ofrece un dispositivo rastreador, alertas de vencimiento y consejos viales para prevenir robos de vehículos y mejorar la seguridad.<br>**Keywords**: safedrive, seguridad vehicular, rastreo de vehículos, prevención de robos, tecnología automotriz, app de rastreo, alertas de caducidad, consejos viales, sistema de seguridad automotriz<br>**Author**: SafeDrive
 
 
 ### 3.1.2.4 Searching Systems.
 <td>El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos</td>
 <br><br>
 
+1. Navbar: En la parte superior de la página se encuentra una barra que incluye enlaces a las secciones principales del sitio. Los enlaces principales son: "Home", "Ubicación", "Ofrecemos", "Beneficios", "Nosotros" y "Contacto".
+
 ### 3.1.2.5 Navigation Systems.
 <td>El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación</td>
 <br><br>
+
+
+1. Navegación jerárquica: La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece. Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
+
+2. Boton de llamada a la accion: Un boton flotante que siempre está visible y permite a los usuarios acceder a Registrarse e Iniciar sesion.
+
+3. Sección inferior: En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos".
 
 ## 3.1.3. Landing Page UI Design. 
 El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.

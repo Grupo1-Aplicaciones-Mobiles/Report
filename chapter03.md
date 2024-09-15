@@ -145,9 +145,13 @@ https://www.figma.com/design/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?node-id=0-
 ####  3.1.4.4. Mobile Applications User Flow Diagrams. 
 El diagrama de flujo de usuario es una representación visual de los pasos que un usuario sigue al interactuar con una aplicación móbil. Muestra la secuencia de acciones que el usuario realiza para completar una tarea específica, lo que nos ayuda a identificar posibles puntos de fricción y a optimizar la experiencia del usuario. <br>
 
-![Landing Page Wireframe](assets/UserFlow_SafeDrive.png)
+![SafeDrive_Prototype](assets/Prototyping.png)
+
+Enlace a los User Flow Diagrams de la MobileApp de SafeDrive.<br>
+https://www.figma.com/proto/U65pqkExxIUM6UqQEDMm8b/Mockups_SafeDrive?page-id=0%3A1&node-id=43-794&node-type=frame&viewport=590%2C257%2C0.3&t=BGdriK2pdgTJyZGU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=43%3A794
 
 ####  3.1.4.5. Mobile Applications Prototyping. 
+El prototipado es una parte esencial del proceso de diseño de aplicaciones móviles, ya que nos permite crear una versión interactiva y funcional de la aplicación antes de su lanzamiento. Los prototipos nos permiten probar y validar el diseño de la aplicación, identificar posibles problemas de usabilidad y obtener retroalimentación de los usuarios antes de la implementación final. <br>
 
 ## 3.2. Architecture Overview. 
 ### 3.2.1. Domain-Driven Software Architecture.

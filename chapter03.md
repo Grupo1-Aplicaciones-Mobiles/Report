@@ -176,7 +176,234 @@ Profile Context
 Tracking Context
 ![Component Diagram](assets/tracking-component.png)
 ###  3.2.2. Software Object-Oriented Design.
-#### 3.2.2.1. Class Diagrams. 
+El diseño orientado a objetos es una metodología de diseño de software que se basa en la creación de clases y objetos que representan entidades del mundo real y sus interacciones. Al aplicar los principios de diseño orientado a objetos, podemos crear sistemas de software modulares, reutilizables y fáciles de mantener. En el contexto de nuestro proyecto, el diseño orientado a objetos nos permitirá modelar de manera efectiva las entidades y relaciones del dominio del problema, lo que nos ayudará a construir una arquitectura de software sólida y coherente.
+#### 3.2.2.1. Class Diagrams.
+![Class Diagram](assets/class-diagram.png)
 #### 3.2.2.2. Class Dictionary. 
+### Vehículo
+**Descripción**: Representa un vehículo que está registrado en el sistema IoT. Contiene información sobre sus características y estado actual.
+
+**Atributos**:
+- `id_vehiculo`: Identificador único del vehículo.
+- `matricula`: La matrícula del vehículo (única).
+- `marca`: Marca del vehículo.
+- `modelo`: Modelo del vehículo.
+- `año`: Año de fabricación del vehículo.
+- `color`: Color del vehículo.
+- `estado`: El estado actual del vehículo (activo, inactivo, alarma, etc.).
+- `dueño`: El dueño asociado al vehículo.
+
+**Métodos**:
+- `actualizar_estado(nuevo_estado: EstadoVehiculo)`: Cambia el estado actual del vehículo.
+- `obtener_ubicacion_actual() -> UbicacionVehiculo`: Retorna la ubicación más reciente del vehículo.
+
+---
+
+### Dueño
+**Descripción**: Representa a un dueño o perfil en el sistema. El dueño puede poseer varios vehículos y es responsable de ellos.
+
+**Atributos**:
+- `id_dueño`: Identificador único del dueño.
+- `nombre`: Nombre completo del dueño.
+- `correo`: Correo electrónico del dueño.
+- `telefono`: Número de teléfono de contacto.
+- `direccion`: Dirección de ubicación.
+- `latitud_dueño`: Latitud de la ubicación del dueño.
+- `longitud_dueño`: Longitud de la ubicación del dueño.
+- `vehiculos`: Lista de vehículos que posee el dueño.
+
+**Métodos**:
+- `obtener_ruta_vehiculo(vehiculo: Vehiculo) -> Ruta`: Genera una ruta desde la ubicación del dueño hasta la ubicación del vehículo utilizando Google Maps.
+
+---
+
+### UbicaciónVehiculo
+**Descripción**: Representa la ubicación geográfica de un vehículo en un momento determinado.
+
+**Atributos**:
+- `id_ubicacion`: Identificador único de la ubicación.
+- `latitud`: Latitud geográfica de la ubicación del vehículo.
+- `longitud`: Longitud geográfica de la ubicación del vehículo.
+- `direccion`: Dirección estimada a partir de las coordenadas.
+- `fecha_hora`: Fecha y hora en la que se registró la ubicación.
+- `vehiculo`: El vehículo al que corresponde la ubicación.
+
+**Métodos**:
+- `actualizar_ubicacion(nueva_latitud: float, nueva_longitud: float)`: Actualiza la ubicación del vehículo.
+
+---
+
+### EstadoVehiculo
+**Descripción**: Representa los posibles estados que un vehículo puede tener, como activo, inactivo, en alarma, etc.
+
+**Atributos**:
+- `id_estado`: Identificador único del estado.
+- `nombre_estado`: Nombre del estado (ej. Activo, Inactivo).
+- `descripcion`: Descripción detallada del estado.
+
+---
+
+### Evento
+**Descripción**: Representa un evento importante relacionado con el vehículo, como un robo, una alarma o un movimiento fuera de una zona segura.
+
+**Atributos**:
+- `id_evento`: Identificador único del evento.
+- `tipo_evento`: Tipo de evento (robo, alarma, etc.).
+- `descripcion`: Descripción del evento.
+- `fecha_hora`: Fecha y hora en que ocurrió el evento.
+- `vehiculo`: El vehículo asociado al evento.
+- `dueño`: El dueño del vehículo relacionado con el evento.
+
+**Métodos**:
+- `generar_alerta()`: Genera una alerta para el dueño relacionada con el evento.
+
+---
+
+### ZonaSegura
+**Descripción**: Define una zona geográfica en la que un vehículo puede moverse sin generar alertas. Se utiliza para implementar el concepto de geofencing.
+
+**Atributos**:
+- `id_zona`: Identificador único de la zona segura.
+- `nombre_zona`: Nombre de la zona segura.
+- `latitud`: Latitud del centro de la zona segura.
+- `longitud`: Longitud del centro de la zona segura.
+- `radio`: Radio en metros que define el tamaño de la zona segura.
+- `vehiculo`: El vehículo asociado a la zona segura.
+
+**Métodos**:
+- `esta_dentro_zona(ubicacion: UbicacionVehiculo) -> bool`: Verifica si una ubicación está dentro de la zona segura.
+
+---
+
+### Notificación
+**Descripción**: Representa una notificación enviada al dueño del vehículo, informándole sobre eventos o cambios importantes.
+
+**Atributos**:
+- `id_notificacion`: Identificador único de la notificación.
+- `mensaje`: El contenido de la notificación.
+- `fecha_hora`: Fecha y hora en la que se envió la notificación.
+- `dueño`: El dueño que recibe la notificación.
+
+**Métodos**:
+- `enviar_notificación()`: Envía la notificación al dueño correspondiente.
+
+---
+
+### Ruta
+**Descripción**: Representa una ruta generada entre el dueño y la ubicación del vehículo, usando Google Maps para calcular la distancia y la duración estimada.
+
+**Atributos**:
+- `id_ruta`: Identificador único de la ruta.
+- `dueño`: El dueño que solicita la ruta.
+- `vehiculo`: El vehículo cuya ubicación está en el destino de la ruta.
+- `latitud_dueño`: Latitud de inicio de la ruta (ubicación del dueño).
+- `longitud_dueño`: Longitud de inicio de la ruta.
+- `latitud_vehiculo`: Latitud del destino (ubicación del vehículo).
+- `longitud_vehiculo`: Longitud del destino.
+- `distancia`: Distancia total en kilómetros.
+
+**Métodos**:
+- `calcular_ruta()`: Calcula la ruta desde la ubicación del dueño hasta la ubicación del vehículo utilizando Google Maps.
+
 #### 3.2.2.3. Database Design. 
+El diseño de la base de datos es un aspecto fundamental de la arquitectura de software, ya que determina cómo se almacenarán y gestionarán los datos en el sistema. Un diseño de base de datos eficiente y bien estructurado es esencial para garantizar un rendimiento óptimo y una escalabilidad adecuada del sistema. En el contexto de nuestro proyecto, el diseño de la base de datos nos permitirá modelar las entidades y relaciones del dominio del problema de manera coherente y eficaz, lo que nos ayudará a construir una arquitectura de software sólida y escalable.
+La base de datos de SafeDrive se trabaja desde Mysql, y se ha diseñado con las siguientes tablas:
+### Vehículos
+**Descripción**: Tabla que almacena los datos de los vehículos registrados en el sistema IoT.
+
+**Atributos**:
+- `id_vehiculo`: Identificador único del vehículo (PK).
+- `matricula`: Matrícula del vehículo, única.
+- `marca`: Marca del vehículo.
+- `modelo`: Modelo del vehículo.
+- `año`: Año de fabricación del vehículo.
+- `color`: Color del vehículo.
+- `id_dueño`: Identificador del dueño del vehículo (FK a la tabla **Dueños**).
+- `id_estado_actual`: Identificador del estado actual del vehículo (FK a la tabla **Estado_Vehiculo**).
+
+---
+
+### Dueños
+**Descripción**: Tabla que almacena los datos de los dueños (perfiles) del sistema.
+
+**Atributos**:
+- `id_dueño`: Identificador único del dueño (PK).
+- `nombre`: Nombre completo del dueño.
+- `correo`: Correo electrónico del dueño, único.
+- `telefono`: Número de teléfono del dueño.
+- `direccion`: Dirección de actual del dueño.
+- `latitud_actual`: Latitud de la actual del dueño.
+- `longitud_actual`: Longitud de la actual del dueño.
+
+---
+
+### Ubicación_Vehiculo
+**Descripción**: Tabla que almacena las ubicaciones geográficas de los vehículos a lo largo del tiempo.
+
+**Atributos**:
+- `id_ubicacion`: Identificador único de la ubicación (PK).
+- `id_vehiculo`: Identificador del vehículo (FK a la tabla **Vehículos**).
+- `latitud`: Latitud geográfica de la ubicación.
+- `longitud`: Longitud geográfica de la ubicación.
+- `direccion`: Dirección estimada a partir de las coordenadas.
+- `fecha_hora`: Fecha y hora en la que se registró la ubicación.
+
+---
+
+### Estado_Vehiculo
+**Descripción**: Tabla que almacena los posibles estados en los que puede estar un vehículo.
+
+**Atributos**:
+- `id_estado`: Identificador único del estado (PK).
+- `nombre_estado`: Nombre del estado (ej. Activo, Inactivo, Alarma).
+- `descripcion`: Descripción del estado.
+
+---
+
+### Eventos
+**Descripción**: Tabla que almacena eventos importantes relacionados con los vehículos, como robo, alarma o movimiento fuera de una zona segura.
+
+**Atributos**:
+- `id_evento`: Identificador único del evento (PK).
+- `id_vehiculo`: Identificador del vehículo relacionado con el evento (FK a la tabla **Vehículos**).
+- `id_dueño`: Identificador del dueño relacionado con el evento (FK a la tabla **Dueños**).
+- `tipo_evento`: Tipo de evento (ej. Robo, Alarma, Movimiento fuera de zona).
+- `descripcion`: Descripción del evento.
+- `fecha_hora`: Fecha y hora en que ocurrió el evento.
+
+---
+
+### Zonas_Seguras
+**Descripción**: Tabla que almacena las zonas geográficas en las que un vehículo puede moverse sin generar alertas.
+
+**Atributos**:
+- `id_zona`: Identificador único de la zona segura (PK).
+- `id_vehiculo`: Identificador del vehículo asociado a la zona segura (FK a la tabla **Vehículos**).
+- `nombre_zona`: Nombre de la zona segura.
+- `latitud`: Latitud del centro de la zona segura.
+- `longitud`: Longitud del centro de la zona segura.
+- `radio`: Radio en metros que define el tamaño de la zona segura.
+
+---
+
+### Notificaciones
+**Descripción**: Tabla que almacena el historial de notificaciones enviadas al dueño del vehículo.
+
+**Atributos**:
+- `id_notificacion`: Identificador único de la notificación (PK).
+- `id_dueño`: Identificador del dueño que recibe la notificación (FK a la tabla **Dueños**).
+- `mensaje`: El contenido de la notificación.
+- `fecha_hora`: Fecha y hora en la que se envió la notificación.
+
+---
+
+### Rutas
+**Descripción**: Tabla que almacena las rutas generadas entre el dueño y la ubicación del vehículo.
+
+**Atributos**:
+- `id_ruta`: Identificador único de la ruta (PK).
+- `id_dueño`: Identificador del dueño que genera la ruta (FK a la tabla **Dueños**).
+- `id_vehiculo`: Identificador del vehículo cuyo destino es el final de la ruta (FK a la tabla **Vehículos**).
+
 #### 3.2.2.4 Database Diagram. 
+![Database Diagram](assets/database-diagram.png)

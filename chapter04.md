@@ -156,11 +156,11 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
         </tr>
         <tr>
             <td>Date</td>
-            <td> </td>
+            <td>2024-09-12</td>
         </tr>
           <tr>
             <td>Time</td>
-            <td> </td>
+            <td>04:27 PM</td>
         </tr>
             <tr>
             <td>Location</td>
@@ -168,33 +168,33 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
         </tr>
             <tr>
             <td>Prepared by</td>
-            <td></td>
+            <td>Fabrizio Sanchez</td>
         </tr>
             <tr>
             <td>Attendees (to planning meeting)</td>
-            <td> </td>
+            <td>Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre</td>
             <tr>
             <td>Sprint 1 Review Summary</td>
-            <td> </td>
+            <td>En el desarrollo del primer sprint, logramos progresar de manera notable en el desarrollo de al menos el 30% del backend, adempas de una buena colaboracion en el equipo.</td>
         </tr>
             <tr>
-            <td>Sprint 3 Retrospective Summary</td>
-            <td> </td>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>En retrospectiva del primer sprint, detectamos áreas de mejora, como la comunicación y el tiempo en que nos tomaba hacer las tareas. Por eso, nos comprometemos a seguir mejorando nuestro proceso de trabajo de manera continua.</td>
         </tr>
             <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
               <tr>
             <td>Sprint 1 Goal</td>
-            <td> </td>
+            <td>Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del primer sprint.</td>
         </tr>
               <tr>
-            <td>Sprint 3 Velocity</td>
-            <td> </td>
+            <td>Sprint 1 Velocity</td>
+            <td>Hemos decidido establecer nuestra capacidad de entrega en 4 User Stories para este sprint</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td> </td>
+            <td>El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 1 es 12</td>
         </tr>
     </table>
 
@@ -204,7 +204,7 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
 <table>
         <tr>
             <td colspan="2">Sprint #</td>
-            <td colspan="6">Sprint 3</td>
+            <td colspan="6">Sprint 1</td>
         </tr>
         <tr>
             <td colspan="2">User Story</td>
@@ -221,54 +221,96 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
             <td>Status (To-do / In / Process / ToReview / Done)</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US16</td>
+            <td>Autenticación de usuarios</td>
+            <td>T01</td>
+            <td>Implementación de autenticar usuarios en la aplicación</td>
+            <td>Crear un endpoint en la API para registrar usuarios, validando los datos en el backend antes de añadirlos a la base de datos.</td>
+            <td>2 hours</td>
+            <td>Juan Cueto</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US17</td>
+            <td>Crear vehiculo</td>
+            <td>T02</td>
+            <td>Desarrollo de endpoint para agregar un vehiculo</td>
+            <td>Crear un endpoint en la API que permita agregar nuevos vehiculos a la base de datos, incluyedo la lógica de backend para validar los datos antes de incluirlo.</td>
+            <td>2 hours</td>
+            <td>Fabrizio Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US18</td>
+            <td>Editar vehiculo</td>
+            <td>T03</td>
+            <td>Desarrollo de endpoint para editar y actualizar un vehiculo</td>
+            <td>Crear un endpoint en la API para editar y actualizar vehículos existentes en la base de datos, validando los datos en el backend antes de realizar la actualización.</td>
+            <td>3 hours</td>
+            <td>Paolo Martinez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Eliminar vehiculo</td>
+            <td>T04</td>
+            <td>Desarrollo de un endpoint para eliminar un vehiculo</td>
+            <td>Crear un endpoint en la API para eliminar vehículos específicos de la base de datos, validando los datos en el backend antes de proceder con la eliminación.</td>
+            <td>2 hours</td>
+            <td>Moises Donayre</td>
+            <td>Done</td>
         </tr>
     </table>
 
 ### 4.2.1.3. Development Evidence for Sprint Review.
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
+![Commits](assets/commits_juan.png)
+![Commits](assets/commits_fabrizio.png)
+![Commits](assets/commits_paolo.png)
+![Commits](assets/commits_moises.png)
+
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-|            |        |           |                |                     |                    |
-
-
-
+| safeDrive-service | main | fb6093c | chore |  initial commit | 13/09  |
+| safeDrive-service | develop | a761833 | feat | application properties and dependencies implemented. | 13/09 |
+| safeDrive-service | develop | c226afb | feat | user aggregate and entity role implemented. | 13/09 |
+| safeDrive-service | develop | a44fcb8 | feat | commands and queries added. | 13/09 |
+| safeDrive-service | develop | 8f435b6 | feat | services and repositories implemented. | 13/09 |
+| safeDrive-service | develop | d83c4b9 | feat | resources and controllers added. | 13/09 |
+| safeDrive-service | develop | a1af303 | feat | jpa security, bcrypt and iam facade implemented. | 13/09 |
+| safeDrive-service | develop | ad962s7 | feat | jpa auditing implemented. | 13/09 |
+| safeDrive-service | develop-vehicles | 1e879ef | feat | added bounded context vehicle | 14/06 |
+| safeDrive-service | develop-vehicles-update | dd957f7 | feat | add update function | 15/06 |
+| safeDrive-service | develop-vehicles-update | 17f8c5d | feat | add update command | 15/06 |
+| safeDrive-service | develop-vehicles-update | 67156f9 | feat | implement update command | 15/06 |
+| safeDrive-service | develop-vehicles-update | 5f019cd | feat | add resources and update controller | 15/06 |
+| safeDrive-service | develop-vehicles-delete | e880f91 | feat | added delete vehicle command and resource | 15/06 |
+| safeDrive-service | develop-vehicles-delete | d53a36f | feat | added and implement delete vehicle | 15/06 |
+| safeDrive-service | develop-vehicles-delete | eb1af41 | feat | implemented in controller | 15/06 |
 
 ### 4.2.1.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| safeDrive-service | develop | 73c48a | feat | add test for authentication | 15/09 |
+| safeDrive-service | develop-vehicles | 927643c | feat | add test for create vehicles | 15/09 |
+| safeDrive-service | develop-vehicles-update | 5e84fae | feat | add test for update vehicles | 15/09 |
+| safeDrive-service | develop-vehicles-delete | b654a7b | feat | add test for delete vehicles | 15/09 |
+
 ### 4.2.1.5. Execution Evidence for Sprint Review.
+
+En el Sprint 1, se pudo implementar a tiempo las caracteristicas del backend de la aplicación móvil. El equipo completó exitosamente las historias de usuario dadas a cada miembro en este sprint, las cuales incluyeron autenticacion de usuario y gestión de vehiculos.
+
+Contribución del equipo:
+![Evidencia1](assets/evidence-sprint1.png)
+
+Vista del backend:
+![Evidencia2](assets/execution-evidence1.png)
+
+
 ### 4.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 4.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 4.2.1.8. Team Collaboration Insights during Sprint.

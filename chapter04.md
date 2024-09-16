@@ -269,6 +269,14 @@ En esta sección, se describen los avances en la implementación de los producto
 
 ### 4.2.1.4. Testing Suite Evidence for Sprint Review.
 ### 4.2.1.5. Execution Evidence for Sprint Review.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 1. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints.
+
+![Swagger](assets/Execution_Evidence1.png)
 ### 4.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 4.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 4.2.1.8. Team Collaboration Insights during Sprint.
+Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de comunicación como  Discord y WhatsApp. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
+
+Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
+![Collaboration](assets/Collaboration_Insights1.png)

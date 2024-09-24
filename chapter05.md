@@ -78,7 +78,215 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
          Un entorno de desarrollo integrado (IDE) que se utiliza para desarrollar aplicaciones móviles en Android.
 
 ### 5.1.2. Source Code Management.
+- #### Gitflow Implementation: <br>
+  Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto
+  <br>![Gitflow_Image](assets/Gitflow.png) <br>
+
+    #### Convenciones de Gitflow:
+  - **Master o Main branch:**<br>
+    La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
+    #### Notación: master o main
+  - **Develop branch**<br>
+    La rama "Develop" albergará las más recientes actualizaciones y cambios agregados que serán incluidos en la próxima versión del proyecto. Esta rama sirve como un espacio para la integración y prueba continua de los cambios antes de ser fusionados con la rama principal "Master" para su despliegue en producción.
+    #### Notación: develop
+
+   - **Release branch**<br>
+   La rama de lanzamiento (Release branch) facilitará la preparación de una nueva versión del producto. Esta rama permitirá la corrección de errores y permitirá que la rama Develop reciba más actualizaciones.
+   <br>Debe derivarse de la rama Develop.
+   <br>Debe fusionarse con la rama Develop y Master.
+    #### Notación: release
+
+   - **Feature branch**<br>
+     Las ramas de características (Feature branches) serán empleadas para desarrollar nuevas funcionalidades o características del producto que se agregarán en la siguiente versión o en versiones futuras. Estas funcionalidades deberán fusionarse eventualmente con la rama Develop.
+     <br>Debe derivarse de la rama Develop.
+     <br>Debe fusionarse de vuelta a la rama Develop.
+     #### Notación: release
+  
+   - **Hotfix branch**<br>
+     La rama de corrección rápida (Hotfix branch) se empleará para resolver y actuar de manera inmediata ante posibles errores en la versión en producción del producto. La característica principal de esta rama es que permite preparar una solución rápida mientras el resto del equipo continúa trabajando en otras funcionalidades o mejoras.
+     <br>Debe derivarse de la rama Master
+     <br>Debe fusionarse con la rama Develop y Master
+     #### Notación: hotfix
+
+    - **Conventional Commits**<br>
+      "Conventional Commits" es una convención para estructurar los mensajes de confirmación (commits) en un formato estándar y semántico. Este formato ayuda a comunicar claramente los cambios realizados en el código y facilita la generación de registros de cambios automáticos. Los "Conventional Commits" suelen seguir un formato que incluye un encabezado, un cuerpo opcional y un pie de página opcional, y se utilizan para describir de manera sucinta y clara los cambios realizados en el código, lo que facilita su seguimiento y comprensión por parte de los desarrolladores y otros miembros del equipo.
+      <br>
+      La estructura de un commit debe seguir las siguientes pautas:
+    ~~~
+    git commit -m “<type>[optional scope]: <title>“ -m “<description”
+    ~~~
+    **Tipos De Conventional Commits**
+    ~~~
+    1. **feat**: Se usa para describir una nueva característica o funcionalidad añadida al código.
+    2. **fix**: Indica una corrección de errores o solución a un problema.
+    3. **docs**: Se emplea para cambios o mejoras en la documentación del código.
+    4. **style**: Describe cambios relacionados con el formato del código, como espacios en blanco, sangrías, etc., que no afectan su funcionalidad.
+    5. **refactor**: Se utiliza para modificaciones en el código que no corrigen errores ni añaden nuevas funcionalidades, sino que mejoran su estructura o legibilidad.
+    6. **test**: Indica la adición o modificación de pruebas unitarias o funcionales.
+    7. **chore**: Se usa para cambios en el proceso de construcción o tareas de mantenimiento que no están directamente relacionadas con el código en sí.
+    8. **perf**: Describe mejoras de rendimiento en el código.
+    ~~~
 ### 5.1.3. Source Code Style Guide & Conventions.
+- **Landing Page**:
+  - ### HTML
+    - #### Use Lowercase Element Names:
+      Es recomendable utilizar minúsculas o lowercase para los nombres de los elementos HTML.
+        ~~~ 
+      <body>
+            <p>Esto es un párrafo</p>
+      <body>
+       ~~~
+    - #### Close All HTML Elements:
+      Es recomendable cerrar todos los elementos HTML correctamente.
+        ~~~ 
+      <body>
+            <p>Esto es un párrafo</p>
+            <p>Esto es otro párrafo</p>
+      <body>
+       ~~~
+    - #### Use Lowercase Attribute Names:
+      Es recomendable utilizar minúsculas para los nombres de los atributos HTML.
+      ~~~ 
+      <a href="https://www.w3schools.com/html/">Visit our HTMLtutorial</a>
+       ~~~
+    - #### Always Specify alt, width, and height for Images:
+      Es recomendable seguir estas convenciones en caso de que la imagen no se pueda mostrar, lo que ayuda a mejorar la accesibilidad del contenido.
+      ~~~ 
+      <img src="html5.gif" alt="HTML5" 
+      style="width:128px;height:128px">
+      ~~~ 
+    - #### Spaces and Equal Signs:
+      Se recomienda no utilizar espacios en blanco entre las entidades para mejorar la legibilidad.
+      ~~~ 
+      <link rel="stylesheet" href="styles.css">
+      ~~~ 
+  - ### CSS
+    - #### ID and Class Naming
+      Es recomendable utilizar nombres de clases y IDs significativos que expresen claramente el propósito del elemento.
+      ~~~ 
+      #gallery {}
+      #login {}
+      .video {}
+       ~~~
+    - #### ID and Class Name Style
+      Se recomienda utilizar nombres cortos para nombrar IDs o clases, pero lo suficientemente descriptivos para entender su propósito.
+      ~~~ 
+      #nav {}
+      .author {}
+      ~~~
+    - #### Shorthand Properties
+      Se recomienda utilizar propiedades CSS de forma abreviada siempre que sea posible para hacer el código más eficiente y comprensible.
+       ~~~ 
+       border-top: 0;
+       font: 100%/1.6 palatino, georgia, serif;
+       padding: 0 1em 2em;
+       ~~~ 
+    - #### 0 and Units
+      Es recomendable evitar especificar la unidad después del valor 0 en propiedades que lo permitan, ya que esto ayuda a reducir el tamaño del código y mejora su legibilidad.
+       ~~~ 
+       margin: 0;
+       padding: 0;
+       ~~~
+    - #### Declaration Order
+      Se recomienda ordenar las declaraciones en orden alfabético para facilitar el mantenimiento y la recordación del código.
+      ~~~ 
+       background: fuchsia;
+       border: 1px solid;
+       border-radius: 4px;
+       color: black;
+       text-align: center;
+       text-indent: 2em;
+      ~~~  
+  - ### JAVASCRIPT
+    - #### Use expanded syntax
+      Cada línea de JavaScript debería estar en una nueva línea, con la llave de apertura en la misma línea de su declaración y la llave de cierre en una nueva línea al final.
+      ~~~ 
+      function myFunc() {
+       console.log('Hello!');
+      };
+      ~~~
+    - #### Variable naming
+      Para el nombre de las variables, se recomienda utilizar lowerCamelCase.
+      ~~~ 
+      let playerScore = 0;
+      let speed = distance / time;
+      ~~~  
+    - #### Declaring variables
+      Para la declaración de variables, es recomendable utilizar las palabras reservadas let y const en lugar de var.
+      ~~~ 
+      const myName = 'Chris';
+      console.log(myName);
+      let myAge = '40';
+      myAge++;
+      console.log('Happy birthday!');
+      ~~~ 
+    - #### Function naming
+      Para el nombre de las funciones, se recomienda utilizar lowerCamelCase.
+      ~~~ 
+      function sayHello() {
+      alert('Hello!');
+      };
+      ~~~
+- **Mobile Application**:
+  - **KOTLIN**:
+    - Naming Conventions: <br>
+        Sigue PascalCase para clases y objetos, camelCase para funciones y variables, y UPPER_CASE para constantes.
+        ~~~
+        class UserProfile {}
+        fun fetchUserData() {}
+        const val MAX_RETRY_ATTEMPTS = 3
+        ~~~
+    
+    - Indentation & Spacing: <br>
+      Usa 4 espacios para la indentación y deja una línea en blanco entre funciones.
+      ~~~
+      fun loginUser() {
+      if (user.isLoggedIn()) {
+      println("User is logged in")
+      }
+      }
+      ~~~
+    
+    - Brace Style: <br>
+      Las llaves deben abrirse en la misma línea que la declaración.
+      ~~~
+      if (user.isAdmin()) {
+      println("User is admin")
+      }
+      ~~~
+    
+    - Function & Lambda Expressions: <br>
+      Usa funciones de una sola expresión y lambdas con it cuando sea posible.
+      ~~~
+      val doubled = numbers.map { it * 2 }
+      fun isEven(number: Int) = number % 2 == 0
+      ~~~
+  - **Jetpack Compose**:
+    - Naming Conventions: <br>
+      Usa PascalCase para composables y mantenlos pequeños y modulares.
+      ~~~
+      @Composable
+        fun UserProfileScreen() {
+        Column {
+           UserImage()
+           UserDetails()
+        }
+      }
+      ~~~
+
+    - Modifiers y Parámetros Opcionales: <br>
+      Los modificadores van al final de la función y se deben usar valores por defecto en parámetros opcionales.
+      ~~~
+      @Composable
+      fun UserImage(modifier: Modifier = Modifier.size(64.dp), imageUrl: String) {}
+      ~~~
+      
+    - State Handling in Compose: <br>
+      Usa remember y mutableStateOf para manejar el estado local en composables.
+      ~~~
+      var count by remember { mutableStateOf(0) }
+      ~~~
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page & Mobile Application Implementation.
 ### 5.2.1. Sprint n

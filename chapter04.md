@@ -175,7 +175,7 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
             <td>Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre</td>
             <tr>
             <td>Sprint 1 Review Summary</td>
-            <td>En el desarrollo del primer sprint, logramos progresar de manera notable en el desarrollo de al menos el 30% del backend, adempas de una buena colaboracion en el equipo.</td>
+            <td>En el desarrollo del primer sprint, logramos progresar de manera notable en el desarrollo de al menos el 30% del backend, además de una buena colaboracion en el equipo.</td>
         </tr>
             <tr>
             <td>Sprint 1 Retrospective Summary</td>
@@ -263,7 +263,7 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
     </table>
 
 ### 4.2.1.3. Development Evidence for Sprint Review.
-En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 1. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
 ![Commits](assets/commits_juan.png)
 ![Commits](assets/commits_fabrizio.png)
@@ -318,5 +318,184 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de comunicación como  Discord y WhatsApp. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
 
 Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
+![Collaboration](assets/Collaboration_Insights1.png)
+
+### 4.2.2. Sprint 2
+El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+### 4.2.2.1. Sprint Planning 2.
+A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+*Tabla del planeamiento a profundidad del Sprint 1.*
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-20</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>06:04 PM</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Fabrizio Sanchez</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre</td>
+            <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>En el desarrollo del segundo sprint, logramos completar el backend de nuestra aplicación móvil, por lo que este sprint fue todo un éxito.</td>
+        </tr>
+            <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>En retrospectiva del segundo sprint, las áreas de mejora del anterior sprint fueron satisfacidas, por lo que no hubo problemas para el desarrollo.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 2 Goal</td>
+            <td>Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del segundo sprint.</td>
+        </tr>
+              <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>Hemos decidido establecer nuestra capacidad de entrega en 4 User Stories para este sprint</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 2 es 21</td>
+        </tr>
+    </table>
+
+### 4.2.2.2. Sprint Backlog 2.
+*Tabla principal del planeamiento del Sprint Backlog 1.*
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Actualizar coordenadas de usuario</td>
+            <td>T01</td>
+            <td>Implementación de actualizar coordenadas de un usuario</td>
+            <td>Crear un endpoint en la API actualizar las coordenadas del usuario, validando los datos en el backend antes de actualizarlo en la base de datos.</td>
+            <td>2 hours</td>
+            <td>Fabrizio Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Actualizar coordenadas de vehiculo</td>
+            <td>T02</td>
+            <td>Desarrollo de endpoint para actualizar coordenadas de un vehiculo</td>
+            <td>Crear un endpoint en la API que permita aactualizar las coordenadas de vehiculos a la base de datos, incluyedo la lógica de backend para validar los datos y actualizarlos antes de incluirlo.</td>
+            <td>2 hours</td>
+            <td>Paolo Martinez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Distancia entre usuario y su vehiculo</td>
+            <td>T03</td>
+            <td>Desarrollo de endpoint para la distancia y el tiempo entre el usuario con su vehiculo</td>
+            <td>Crear un endpoint en la API para calcular la distancia y el tiempo en el que el usuario se encuentra de su vehículo en la base de datos, validando los datos en el backend para su consulta.</td>
+            <td>3 hours</td>
+            <td>Juan Cueto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Crear notificaciones</td>
+            <td>T04</td>
+            <td>Desarrollo de un endpoint para crear notificaciones</td>
+            <td>Crear un endpoint en la API para crear notificaciones a cada usuario según la distancia en la que se encuentran y otros eventos, y guardarlos en la base de datos, validando los datos en el backend antes de proceder con el envío de notificaciones.</td>
+            <td>2 hours</td>
+            <td>Moises Donayre</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+### 4.2.2.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 2. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+![Commits](assets/commits_juan.png)
+![Commits](assets/commits_fabrizio.png)
+![Commits](assets/commits_paolo.png)
+![Commits](assets/commits_moises.png)
+
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| safeDrive-service | develop-vehicles | fb897c7 | feat | added connection between IAM and Vehicles | 21/09  |
+| safeDrive-service | develop-tracking | 00df415 | feat | google maps api implemented, coordinates value-object and services added for user class. user controller updated. | 25/09 |
+| safeDrive-service | develop-tracking | 0a29177 | feat | coordinates for vehicles added, vehicle controller updated. | 25/09 |
+| safeDrive-service | develop-tracking | b14997f | feat | distance matrix implemented. | 25/09 |
+| safeDrive-service | develop | 4c75a2e | merge | branch 'develop' into develop-vehicles-update | 25/09 |
+| safeDrive-service | develop | 2349380 | merge | pull request #2 from Grupo1-Aplicaciones-Mobiles/develop-vehicles-update | 25/09 |
+| safeDrive-service | develop-notifications | 574e312 | feat | added create notification | 26/09 |
+| safeDrive-service | develop-notifications | d47ab9d | feat | added get notification by userId | 26/09 |
+| safeDrive-service | develop-notifications | 677b709 | feat | implemented notification controller | 26/09 |
+| safeDrive-service | develop | 25a0877 | fix | update information fixed. | 27/09 |
+| safeDrive-service | develop | 823c491 | merge | branch 'develop-notifications' of https://github.com/Grupo1-Aplicaciones-Mobiles/safeDrive-service into develop | 27/09 |
+| safeDrive-service | develop | 2d2ead9 | feat | merging branches. | 27/09 |
+| safeDrive-service | develop | 7ef8ee3 | feat | added delete operation | 27/09 |
+| safeDrive-service | develop | fa1cc67 | feat | properties implemented. | 27/09 |
+| safeDrive-service | main | 69419b6 | docs | documentation for project implemented. | 27/09 |
+
+### 4.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| safeDrive-service | develop | 73c48a | feat | add test for authentication | 15/09 |
+| safeDrive-service | develop-notifications | 927643c | feat | add test for create vehicles | 15/09 |
+| safeDrive-service | develop-tracking | 5e84fae | feat | add test for update vehicles | 15/09 |
+
+### 4.2.2.5. Execution Evidence for Sprint Review.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 1. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints.
+
+![Swagger](assets/execution-evidence2.png)
+### 4.2.2.6. Services Documentation Evidence for Sprint Review.
+
+| Nombre del endpoint | Acciones implementadas | Sintaxis de Llamada                                                                                                | Especificación de Parámetros                                                                                                                                                                              | Ejemplo de Llamada | Explicación del Response                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Users      | PUT                   | PUT: /api/v1/users/coordinates                              | PUT: `"userId": int, "latitude": double, "longitude": double`                                                                         | -                  | En este caso, el endpoint "api/v1/users/coordinates" actualiza el body del usuario creado en formato JSON, para colocar las coordenadas en donde se encuentra.  |
+| Vehicle             | PUT | PUT: /api/v1/vehicles/coordinates" | PUT: `"vehicleId": int, "latitude": double, "longitude": double` | -                  | En este caso, el endpoint PUT "/api/v1/vehicles/coordinates" devuelve el body del vehículo modificado añadiendo latitud y longitud para saber su ubicación en el mapa. |
+| Notifications             | POST, GET | POST: /api/v1/notifications, api/v1/notifications/distance-alert, <br> GET: /api/v1/notifications/{userId} | POST: `"userId": int, "message": string`, `"userId": int, vehicleId: int` GET: `"userId": int` | -                  | En este caso, el endpoint POST "/api/v1/notifications" crea y devuelve el body de la notificacion al usuario, de igual modo "/api/v1/notifications/distance-alert" devuelve un mensaje respecto a la distancia que esta el usuario de su vehiculo estos pueden variar dependiendo si se encuentra cerca o lejos, el endpoint GET "api/v1/notifications/{userId}" devuelve todas notificaciones que fueron enviadas a tal usuario. |
+| Tracking             | GET | GET: /api/v1/tracking/distance" | GET: `"userId": int, "vehicleId": int` | -                  | En este caso, el endpoint GET "/api/v1/tracking/distance" obtiene las coordenadas del usuario y su vehiculo, y calcula la distacia entre ellos y el tiempo estimado en llegar a este. |
+
+### 4.2.2.7. Software Deployment Evidence for Sprint Review.
+### 4.2.2.8. Team Collaboration Insights during Sprint.
+Hemos mantenido una comunicación continua mediante reuniones semanales y el uso de herramientas como Discord y WhatsApp. También hemos seguido asignando tareas y responsabilidades entre los miembros del equipo, lo que ha facilitado un avance constante y una distribución justa del trabajo.
+
+Esta comunicación ha sido fundamental para el éxito del proyecto, permitiéndonos enfrentar los desafíos y superar obstáculos de manera eficiente, trabajando juntos para encontrar soluciones. Además, hemos compartido ideas y conocimientos, lo que ha enriquecido nuestro proceso de desarrollo y nos ha brindado la oportunidad de aprender mutuamente.
 
 ![Collaboration](assets/Collaboration_Insights1.png)

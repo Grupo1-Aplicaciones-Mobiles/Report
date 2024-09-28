@@ -449,10 +449,9 @@ A continuación, se presenta el resumen del Sprint Planning Meeting, que proporc
 ### 4.2.2.3. Development Evidence for Sprint Review.
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 2. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
-![Commits](assets/commits_juan.png)
-![Commits](assets/commits_fabrizio.png)
-![Commits](assets/commits_paolo.png)
-![Commits](assets/commits_moises.png)
+![Commits](assets/evidence_sprint2_1.png)
+![Commits](assets/evidence_sprint2_2.png)
+![Commits](assets/evidence_sprint2_3.png)
 
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
 
@@ -472,7 +471,10 @@ En esta sección, se describen los avances en la implementación de los producto
 | safeDrive-service | develop | 2d2ead9 | feat | merging branches. | 27/09 |
 | safeDrive-service | develop | 7ef8ee3 | feat | added delete operation | 27/09 |
 | safeDrive-service | develop | fa1cc67 | feat | properties implemented. | 27/09 |
-| safeDrive-service | main | 69419b6 | docs | documentation for project implemented. | 27/09 |
+| safeDrive-service | develop | 69419b6 | docs | documentation for project implemented. | 27/09 |
+| safeDrive-service | develop | 5b80e67 | merge | pull request #3 from Grupo1-Aplicaciones-Mobiles/main | 27/09 |
+| safeDrive-service | develop | 6d5e547 | fix | add imageUri attribute | 27/09 |
+| safeDrive-service | develop | 842ff76 | fix | fix controllers route | 27/09 |
 
 ### 4.2.2.4. Testing Suite Evidence for Sprint Review.
 
@@ -506,4 +508,4 @@ Hemos mantenido una comunicación continua mediante reuniones semanales y el uso
 
 Esta comunicación ha sido fundamental para el éxito del proyecto, permitiéndonos enfrentar los desafíos y superar obstáculos de manera eficiente, trabajando juntos para encontrar soluciones. Además, hemos compartido ideas y conocimientos, lo que ha enriquecido nuestro proceso de desarrollo y nos ha brindado la oportunidad de aprender mutuamente.
 
-![Collaboration](assets/Collaboration_Insights1.png)
+![Collaboration](assets/Collaboration_Insights2.png)

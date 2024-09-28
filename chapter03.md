@@ -38,10 +38,7 @@ El propósito del sistema de organización de la página es establecer la estruc
 
 Para nuestra landing page ,destacamos secciones importantes en la barra de navegación, estos son: "Home", Ubicación", "Ofrecemos", "Beneficios", "Nosotros" y "Contacto". 
 
-* Página principal: La parte superior de la página presenta una sección principal destacada con el título "SafeDrive" y una breve descripción de la plataforma, en la que se destaca su objetivo principal de garantizar la seguridad de los vehículos desde cualquier lugar.
-
-*  Ubicación: Esta sección presenta la principal característica de la plataforma: el seguimiento de la ubicación del vehículo.
-Hay un título "Ubicación" con una breve descripción debajo, en la que se explica que los usuarios pueden registrar su vehículo para conocer siempre su ubicación, junto con un sistema de alerta de actividades sospechosas.
+* Página principal: La parte superior de la página presenta una sección principal destacada por una breve descripción de la plataforma, en la que se destaca su objetivo principal de garantizar la seguridad de los vehículos desde cualquier lugar.
 
 * Ofrecemos: Esta sección muestra las características que ofrece SafeDrive.
 Contiene tres elementos: un dispositivo de seguimiento, asistencia para principiantes y avisos de caducidad, cada uno de ellos acompañado de un icono y un botón "Más" para obtener más detalles.
@@ -60,10 +57,9 @@ Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y 
 
 1. Secciones:
 * "Home": Pagina principal.
-* "Ubicación": Informacion de la capacidad de nuestra startup.
-* "Ofrecemos": Funcionalidades disponibles del servicio.
-* "Beneficios": Ventajas de las caracteristicas dadas anteriormente.
 * "Nosotros": Mencionamos nuestro objetivo como startup a los usuarios.
+* "Servicios": Funcionalidades disponibles del servicio.
+* "Beneficios": Ventajas de las caracteristicas dadas anteriormente.
 * "Contacto": Comunicacion con nosotros mediante un formulario.
 
 2. Botones:
@@ -90,7 +86,7 @@ Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y 
 <td>El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos</td>
 <br><br>
 
-1. Navbar: En la parte superior de la página se encuentra una barra que incluye enlaces a las secciones principales del sitio. Los enlaces principales son: "Home", "Ubicación", "Ofrecemos", "Beneficios", "Nosotros" y "Contacto".
+1. Navbar: En la parte superior de la página se encuentra una barra que incluye enlaces a las secciones principales del sitio. Los enlaces principales son: "Home", "Nosotros", "Servicios", "Beneficios" y "Contacto".
 
 ### 3.1.2.5 Navigation Systems.
 <td>El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación</td>
@@ -107,19 +103,17 @@ Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y 
 El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.
 ### 3.1.3.1. Landing Page Wireframe.
 Enlace a los wireframes de la landing page de SafeDrive.<br>
-https://www.figma.com/design/Sr9pPT2n1pHLZJpXgKORls/SafeDrive-LandingPage-Wireframe?node-id=0-1&t=dQkuYGVoYFoVe9Hh-1
+https://www.figma.com/design/uj53CJK6z8ieVijHrWtM2G/LandingPage-SafeDrive?node-id=0-1&t=62M9uBMTNlwTzOzX-1
 
 
-![Landing Page Wireframe](assets/Landing_Page_Wireframe1.png)
-![Landing Page Wireframe](assets/Landing_Page_Wireframe2.png)
-![Landing Page Wireframe](assets/Landing_Page_Wireframe3.png)
+![Landing Page Wireframe](assets/wireframe1.png)
+![Landing Page Wireframe](assets/wireframe2.png)
 ### 3.1.3.2. Landing Page Mock-up. 
 Enlace a los Mockups de la landing page de SafeDrive.<br>
-https://www.figma.com/design/Sr9pPT2n1pHLZJpXgKORls/SafeDrive-LandingPage-Wireframe?node-id=0-1&t=dQkuYGVoYFoVe9Hh-1
+https://www.figma.com/design/uj53CJK6z8ieVijHrWtM2G/LandingPage-SafeDrive?node-id=0-1&t=62M9uBMTNlwTzOzX-1
 
-![Landing Page Wireframe](assets/Landing_Page_Mockup1.png)
-![Landing Page Wireframe](assets/Landing_Page_Mockup2.png)
-![Landing Page Wireframe](assets/Landing_Page_Mockup3.png)
+![Landing Page Wireframe](assets/mockup1.png)
+![Landing Page Wireframe](assets/mockup2.png)
 
 ## 3.1.4 Mobile Applications UX/UI Design. 
 El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) para aplicaciones móbiles implica crear una experiencia digital que sea intuitiva, eficiente y satisfactoria para los usuarios. La UX se centra en comprender las necesidades y expectativas del usuario, así como en diseñar flujos de trabajo y arquitectura de información que faciliten la interacción. Por otro lado, la UI se refiere al aspecto visual de la aplicación, incluyendo el diseño de elementos como botones, menús, y la disposición de contenido. Un diseño UX/UI efectivo combina la estética atractiva con la funcionalidad fácil de usar, lo que resulta en una experiencia positiva y memorable para los usuarios.

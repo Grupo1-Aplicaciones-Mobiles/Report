@@ -288,16 +288,203 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
       ~~~
 
 ### 5.1.4. Software Deployment Configuration.
+
+
+
 ## 5.2. Landing Page & Mobile Application Implementation.
 ### 5.2.1. Sprint 1
+
+El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+
 #### 5.2.1.1. Sprint Planning 1.
+
+A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+*Tabla del planeamiento a profundidad del Sprint 1.*
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-25</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>09:21 PM</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Fabrizio Sanchez</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre</td>
+            <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>En el desarrollo del primer sprint, logramos completar el landing page de nuestro proyecto, por lo que este sprint fue todo un éxito.</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>En retrospectiva del primer sprint, cabe resaltar áreas de mejora, como la planificación de tareas.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del primer sprint.</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>Hemos decidido establecer nuestra capacidad de entrega en 4 User Stories para este sprint</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 1 es 16</td>
+        </tr>
+    </table>
+
 #### 5.2.1.2. Sprint Backlog 1.
+
+*Tabla principal del planeamiento del Sprint Backlog 1.*
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Presentación de sitio web</td>
+            <td>T01</td>
+            <td>Implementación de un resumen claro de las caracteristicas y beneficios de la aplicacipon movil.</td>
+            <td>Crear un resumen en la página de inicio que presente de manera clara y concisa las principales características y beneficios del sitio web, destacando los puntos más relevantes de manera atractiva y fácil de entender.</td>
+            <td>3 hours</td>
+            <td>Fabrizio Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Información footer</td>
+            <td>T02</td>
+            <td>Desarrollor de footer intuitivo y amigable para los usuarios donde destaque información adicional</td>
+            <td>Crear un footer con buen diseño y que de información adicional.</td>
+            <td>1 hours</td>
+            <td>Paolo Martinez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Navegación de información</td>
+            <td>T03</td>
+            <td>Presentar de forma rápida cada sección de la página</td>
+            <td>Crear un navbar que siga al usuario mientras scrollea, asi puede ir de una sección a otra cuando quiera.</td>
+            <td>2 hours</td>
+            <td>Juan Cueto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US27</td>
+            <td>Sección de contacto</td>
+            <td>T04</td>
+            <td>Mostrar contacto visible y accesible</td>
+            <td>Mostrar la información de contacto, redes sociales, correo, telefono y un formulario donde los visitantes puedan aclarar sus dudas.</td>
+            <td>2 hours</td>
+            <td>Moises Donayre</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con la Landing Page, según el alcance del Sprint 1. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| SafeDrive-LandingPage | main | 6655481 | feat | added index | 28/09  |
+| SafeDrive-LandingPage | main | 8eb3fdd | feat | added styles and scripts | 28/09 |
+| SafeDrive-LandingPage | main | 8824128 | feat | added assets | 28/09 |
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+| SafeDrive-LandingPage | main | 6655481 | feat | added tests for footer | 28/09  |
+| SafeDrive-LandingPage | main | 8eb3fdd | feat | added tests for navbar  | 28/09 |
+| SafeDrive-LandingPage | main | 8824128 | feat | added tests for sections | 28/09 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1, se logró terminar con la implementación de las características clave de la página de inicio del sitio web.
+
+* HomePage
+
+![HomePage](assets/homepage.png)
+
+* Nosotros
+
+![Nosotros](assets/nosotros.png)
+
+* Servicios
+
+![Servicios](assets/servicios.png)
+
+* Beneficios
+
+![Beneficios](assets/beneficios.png)
+
+* Contacto
+
+![Contacto](assets/contacto.png)
+
+* Footer
+
+![Footer](assets/footer.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint 1, nos enfocamos en desarrollar el landing page, sin implementación de cualquier servicio. Por lo tanto, este punto quedará sin actividad en este aspecto.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+Durante el Sprint 1, realizamos el despliegue de nuestra landing page en GitHub Pages. A continuación, describimos los pasos que seguimos:
+
+1. Creación del Repositorio en GitHub: Iniciamos estableciendo un repositorio específico en GitHub para la landing page.
+2. Configuración de la Rama main: Nos aseguramos de que la rama principal del repositorio fuera main, ya que GitHub Pages utiliza esta rama para el despliegue automático.
+3. Preparación del Contenido: Diseñamos y desarrollamos la landing page, asegurándonos de que todos los archivos y recursos estuvieran disponibles en el repositorio.
+4. Generación del Enlace de GitHub Pages: En la configuración del repositorio, accedimos a la sección "Pages" y configuramos GitHub Pages para que usara el contenido de la rama main.
+5. Despliegue Automático: GitHub Pages detectó automáticamente los cambios en la rama main y publicó la landing page en la URL generada.
+
+![Despliegue](assets/despliegue.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+![Evidence](assets/evidence.png)
 
 ### 5.2.2. Sprint 2
 

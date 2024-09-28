@@ -391,7 +391,7 @@ Pantalla de edición de perfil
 
 Pantalla de lista de vehículos
 
-![Imagen de WhatsApp 2024-09-27 a las 23 21 41_d18db9bf](https://github.com/user-attachments/assets/f468e9cf-dde1-42ff-a958-643d143a9b1a)
+![Imagen de WhatsApp 2024-09-28 a las 00 52 18_eeda8d54](https://github.com/user-attachments/assets/24875d96-d08e-4b55-b190-5aa810f08c47)
 
 Pantalla de agregar vehículo
 

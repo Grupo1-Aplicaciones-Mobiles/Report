@@ -314,6 +314,9 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 | Vehicle             | GET, POST, PUT, DELETE | GET: /api/v1/vehicles/{id}, POST: "/api/v1/vehicles", PUT: "/api/v1/vehicles/{id}", DELETE: "api/v1/vehicles/{id}" | GET: `"id": int`, POST: `"marca": string, "modelo": string, "color": string, "placa": string`, PUT: `"id": int, "marca": string, "modelo": string, "color": string, "placa": string`, DELETE: `"id": int` | -                  | En este caso, el endpoint "/api/v1/vehicles/{id}" devuelve el conjunto de vehículos en formato JSON, el endpoint "/api/v1/vehicles" devuelve el body del vehículo creado, el endpoint para el PUT "/api/v1/vehicles/{id}" devuelve el body del vehículo modificado y el endpoint para el DELETE "/api/v1/vehicles/{id}" devuelve un 204 si el vehículo ha sido eliminado correctamente. |
 
 ### 4.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Siendo el primer sprint no hemos considerado el despliegue del backend ya que queremos terminarlo primero, el despliegue estará disponible para el segundo sprint.
+
 ### 4.2.1.8. Team Collaboration Insights during Sprint.
 Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de comunicación como  Discord y WhatsApp. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
 
@@ -480,7 +483,7 @@ En esta sección, se describen los avances en la implementación de los producto
 | safeDrive-service | develop-tracking | 5e84fae | feat | add test for update vehicles | 15/09 |
 
 ### 4.2.2.5. Execution Evidence for Sprint Review.
-En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 1. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 2. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints.
 
 ![Swagger](assets/execution-evidence2.png)
 ### 4.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -493,6 +496,11 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 | Tracking             | GET | GET: /api/v1/tracking/distance" | GET: `"userId": int, "vehicleId": int` | -                  | En este caso, el endpoint GET "/api/v1/tracking/distance" obtiene las coordenadas del usuario y su vehiculo, y calcula la distacia entre ellos y el tiempo estimado en llegar a este. |
 
 ### 4.2.2.7. Software Deployment Evidence for Sprint Review.
+
+![Deployment](assets/deploy1.jpeg)
+
+![Deployment](assets/deploy2.jpeg)
+
 ### 4.2.2.8. Team Collaboration Insights during Sprint.
 Hemos mantenido una comunicación continua mediante reuniones semanales y el uso de herramientas como Discord y WhatsApp. También hemos seguido asignando tareas y responsabilidades entre los miembros del equipo, lo que ha facilitado un avance constante y una distribución justa del trabajo.
 

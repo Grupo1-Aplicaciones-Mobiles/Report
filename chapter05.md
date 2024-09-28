@@ -341,9 +341,8 @@ _Tabla principal del planeamiento del Sprint Backlog 2._
 
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
-![[Pasted image 20240927223253.png]]
-
-![[Pasted image 20240927223228.png]]
+![image](https://github.com/user-attachments/assets/cc4df7ef-8f63-4ea0-bb6d-6b6902879d52)
+![image](https://github.com/user-attachments/assets/a058c0e2-2250-4586-b824-07008e87c10e)
 
 _Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2
 
@@ -380,26 +379,26 @@ En esta sección se muestra Frontend de la aplicación funcional. Se puede aprec
 
 Pantalla de registro
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.40.53_8c1cf68b.jpg]]
+![Imagen de WhatsApp 2024-09-27 a las 23 40 53_2992fa88](https://github.com/user-attachments/assets/55bb7886-9764-4d3d-8ef5-61563df5f4a1)
 
 Pantalla de inicio de sesión
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.40.53_8bd15f4a.jpg]]
+![Imagen de WhatsApp 2024-09-27 a las 23 40 53_8ee62840](https://github.com/user-attachments/assets/7a3e282e-e13d-446b-9070-b3f1ffe7b18b)
 
 Pantalla de edición de perfil
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.21.40_4e85d37f.jpg]]
+![Imagen de WhatsApp 2024-09-27 a las 23 21 40_802c1f14](https://github.com/user-attachments/assets/8cb6b68d-0129-4ae9-9519-3aed4fb77ce7)
 
 Pantalla de lista de vehículos
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_8f3b86b2.jpg]]
+![Imagen de WhatsApp 2024-09-27 a las 23 21 41_d18db9bf](https://github.com/user-attachments/assets/f468e9cf-dde1-42ff-a958-643d143a9b1a)
 
 Pantalla de agregar vehículo
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_8878b7b3.jpg]]
+![Imagen de WhatsApp 2024-09-27 a las 23 21 41_dda22cab](https://github.com/user-attachments/assets/8e045228-a523-4225-9f32-2f91b5eb1cfc)
 
+![Imagen de WhatsApp 2024-09-27 a las 23 21 41_39cc30ea](https://github.com/user-attachments/assets/6e65b3c1-3eb4-440f-bc9a-f7e0805e0733)
 
-![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_321af8d3.jpg]]
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -409,7 +408,8 @@ Pantalla de agregar vehículo
 
 Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
 
-![[Pasted image 20240928001900.png]]
+![image](https://github.com/user-attachments/assets/9d881690-5df5-4639-b77d-7a5917f48ae6)
+
 
 ## 5.3. Validation Interviews.
 

@@ -288,8 +288,10 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
       ~~~
 
 ### 5.1.4. Software Deployment Configuration.
-
-
+![Deployment](assets/MobileApp1.png)
+![Deployment](assets/MobileApp2.png)
+![Deployment](assets/MobileApp3.png)
+![Deployment](assets/MobileApp4.png)
 
 ## 5.2. Landing Page & Mobile Application Implementation.
 ### 5.2.1. Sprint 1

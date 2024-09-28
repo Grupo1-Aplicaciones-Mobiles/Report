@@ -289,15 +289,128 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
 
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page & Mobile Application Implementation.
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-#### 5.2.1.2. Sprint Backlog n.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.1.3. Development Evidence for Sprint Review.
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+### 5.2.2. Sprint 2
+
+El segundo sprint se centra en el desarrollo del frontend de nuestra aplicación móvil. Durante este ciclo, priorizamos la creación de interfaces de usuario interactivas y fluidas, traduciendo los diseños iniciales en pantallas funcionales. Además, nos aseguramos de que la experiencia del usuario sea intuitiva y optimizada para diferentes dispositivos móviles. Este sprint marca un avance clave hacia la entrega de un producto cohesivo y funcional.
+
+#### 5.2.2.1. Sprint Planning 2.
+|                                 |                                                                                                                                                                                                                                   |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint #                        | Sprint 2                                                                                                                                                                                                                          |
+| Sprint Planning Background      |                                                                                                                                                                                                                                   |
+| Date                            | 2024-09-21                                                                                                                                                                                                                        |
+| Time                            | 04:27 PM                                                                                                                                                                                                                          |
+| Location                        | Discord                                                                                                                                                                                                                           |
+| Prepared by                     | Fabrizio Sanchez                                                                                                                                                                                                                  |
+| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                      |
+| Sprint 1 Review Summary         | En el desarrollo del primer sprint, logramos implementar de manera notable la Landing Page de nuestro proyecto.                                                                                                                   |
+| Sprint 1 Retrospective Summary  | En retrospectiva del primer sprint, detectamos áreas de mejora, como la comunicación y el tiempo en que nos tomaba hacer las tareas. Por eso, nos comprometemos a seguir mejorando nuestro proceso de trabajo de manera continua. |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                   |
+| Sprint 2 Goal                   | Realizar un avance del Frontend de nuestra aplicación móvil. Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del primer sprint.                                                   |
+| Sprint 2 Velocity               | Hemos decidido establecer nuestra capacidad de entrega en 5 User Stories para este sprint                                                                                                                                         |
+| Sum of Story Points             | El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 1 es 10                                                                                                                              |
+[](https://github.com/Grupo1-Aplicaciones-Mobiles/Report/blob/chapter05/chapter05.md#5211-sprint-planning-n)
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+_Tabla principal del planeamiento del Sprint Backlog 2._
+
+|            |                                                                   |                  |                       |                                                                                           |                    |                  |                                                 |
+| ---------- | ----------------------------------------------------------------- | ---------------- | --------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ---------------- | ----------------------------------------------- |
+| Sprint #   |                                                                   | Sprint 1         |                       |                                                                                           |                    |                  |                                                 |
+| User Story |                                                                   | Work-Item / Task |                       |                                                                                           |                    |                  |                                                 |
+| Id         | Title                                                             | Id               | Title                 | Descripcion                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
+| US01       | Interfaz util en la pantalla de inicio de la aplicación móvil     | T01              | Pantalla de inicio    | Crear una interfaz llamativa y funcional en la pantalla de inicio de la aplicación.       | 2 hours            | Moises Donayre   | Done                                            |
+| US02       | Implementación de una Navegación Intuitiva en la aplicación móvil | T02              | Navegación            | Crear una barra de navegación para poder navegar fácilmente por las diferentes secciones. | 2 hours            | Fabrizio Sanchez | Done                                            |
+| US05       | Registrar vehículos en la aplicación                              | T03              | Registro de vehículos | Crear una sección para registrar vehículos en la aplicación.                              | 3 hours            | Paolo Martinez   | Done                                            |
+| US11       | Eliminar vehículo registrado en la aplicación móvil               | T04              | Eliminar vehículo     | Implementar la funcionalidad de eliminar vehículos en la aplicación.                      | 3 hours            | Paolo Martinez   | Done                                            |
+| US13       | Comunicación con la base de datos y la aplicación móvil           | T05              | Conexión con API      | Conectar el frontend de la aplicación con nuestro API que conecta con la base de datos.   | 2 hours            | Juan Cueto       | In Progress                                     |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+![[Pasted image 20240927223253.png]]
+
+![[Pasted image 20240927223228.png]]
+
+_Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2
+
+| Repository          | Branch                  | Commit Id | Commit Message | Commit Message Body                 | Commited on (Date) |
+| ------------------- | ----------------------- | --------- | -------------- | ----------------------------------- | ------------------ |
+| safeDrive-MobileApp | main                    | 2fcca8e   |                | Initial Commit                      | 23/09              |
+| safeDrive-MobileApp | master                  | 10482d4   | feat           | added screens                       | 23/09              |
+| safeDrive-MobileApp | master                  | b6977ad   | fix            | fixed code related to images        | 24/09              |
+| safeDrive-MobileApp | master                  | ec64de1   | fix            | added code with some errors         | 25/09              |
+| safeDrive-MobileApp | master                  | 75d8cde   | docs           | added navigation                    | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 9de6510   | feat           | add dependencies and permissions    | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 3d264d3   | feat           | add Constants, Resource & UIState   | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 7dda5e7   | feat           | add Dto and Service                 | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | f6c0d12   | feat           | add vehicle data class & repository | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | de0e9f0   | feat           | add vehicle detail presentation     | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 99c33d9   | feat           | add vehicle list presentation       | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | a8aac60   | feat           | add traffic config                  | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 795c696   | feat           | add retrofit builder                | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | e1342b3   | feat           | add image storage with firebase     | 26/09              |
+| safeDrive-MobileApp | feature/vehicles        | 0e3c0c8   | fix            | fix vehicle card                    | 26/09              |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository          | Branch           | Commit Id | Commit Message | Commit Message Body      | Commited on (Date) |
+| ------------------- | ---------------- | --------- | -------------- | ------------------------ | ------------------ |
+| safeDrive-MobileApp | main             | 7ec42a    | feat           | add test for project     | 26/09              |
+| safeDrive-MobileApp | master           | 9b763bc   | feat           | add test navigation      | 27/09              |
+| safeDrive-MobileApp | feature/vehicles | 5h81f2e   | feat           | add test vehicle screens | 27/09              |
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta sección se muestra Frontend de la aplicación funcional. Se puede apreciar las distintas vistas e interfaces realizadas en este sprint:
+
+Pantalla de registro
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.40.53_8c1cf68b.jpg]]
+
+Pantalla de inicio de sesión
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.40.53_8bd15f4a.jpg]]
+
+Pantalla de edición de perfil
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.21.40_4e85d37f.jpg]]
+
+Pantalla de lista de vehículos
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_8f3b86b2.jpg]]
+
+Pantalla de agregar vehículo
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_8878b7b3.jpg]]
+
+
+![[Imagen de WhatsApp 2024-09-27 a las 23.21.41_321af8d3.jpg]]
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
+
+![[Pasted image 20240928001900.png]]
+
 ## 5.3. Validation Interviews.
 
 El objetivo de estas entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los usuarios al probar nuestra aplicación móvil. Buscamos obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y a mejorar nuestra comprensión sobre sus necesidades y deseos.

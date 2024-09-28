@@ -299,8 +299,95 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
+
+El objetivo de estas entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los usuarios al probar nuestra aplicación móvil. Buscamos obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y a mejorar nuestra comprensión sobre sus necesidades y deseos.
+A través de estas conversaciones, podremos obtener una visión más clara de cómo los usuarios interactúan con la aplicación, qué características consideran más útiles y cuáles podrían mejorarse. Esta retroalimentación será fundamental para adaptar la aplicación de manera más efectiva a los requerimientos de nuestros usuarios, asegurando que cumplamos con sus expectativas y necesidades.
+
 ### 5.3.1. Diseño de Entrevistas.
+
+El diseño de estas entrevistas nos permitirá recopilar información valiosa sobre las experiencias, perspectivas y necesidades de los usuarios al interactuar con nuestra aplicación móvil. Esto nos ayudará a comprender mejor sus preocupaciones y expectativas, lo que a su vez nos permitirá desarrollar soluciones más efectivas y adaptadas a sus requerimientos específicos.
+Además, estas entrevistas nos brindarán la oportunidad de establecer una conexión significativa con nuestros usuarios, fortaleciendo así nuestra relación con ellos y mejorando la calidad de nuestra aplicación. La retroalimentación obtenida será esencial para optimizar la experiencia del usuario y asegurarnos de que nuestro producto se ajuste a sus necesidades.
+
+* **Experiencia General**
+
+1. ¿Cómo calificarías tu experiencia general con la aplicación del 1 al 5?
+
+2. ¿Qué te gustó más de la aplicación? ¿Por qué?
+
+* **Usabilidad**
+
+3. ¿Fue fácil navegar por la aplicación?
+
+4. ¿Hubo alguna parte que encontraste confusa o difícil de usar?
+
+* **Funciones**
+
+5. ¿Qué funciones te parecieron más útiles?
+
+6. ¿Hay alguna función que te gustaría ver añadida?
+
+* **Notificaciones**
+
+7. ¿Las notificaciones fueron claras y útiles?
+
+8. ¿Qué tan rápido consideras que deben llegar las alertas?
+
+* **Sugerencias**
+
+9. ¿Tienes alguna recomendación para mejorar la aplicación?
+
 ### 5.3.2. Registro de Entrevistas.
+
+El registro de entrevistas es una herramienta fundamental que nos ayuda a recopilar y organizar la información obtenida durante las pruebas de nuestra aplicación móvil con los usuarios. Nos permite documentar de manera estructurada las respuestas, comentarios y observaciones relevantes, facilitando su análisis posterior y la identificación de patrones o tendencias en la experiencia del usuario. Además, nos proporciona un registro histórico de las interacciones con los usuarios, lo que nos ayuda a mantenernos alineados con sus necesidades y expectativas a lo largo del tiempo. Este registro es esencial para garantizar que podamos adaptar continuamente nuestra aplicación para mejorar la satisfacción del usuario y optimizar su experiencia.
+
+* **Entrevista #1:**
+
+Nombre y Apellido:
+
+Edad:
+
+Distrito:
+
+![Entrevista1](assets/)
+
+Enlace de entrevista:
+
+**Resumen:**
+
+
+
+* **Entrevista #2:**
+
+Nombre y Apellido:
+
+Edad:
+
+Distrito:
+
+![Entrevista1](assets/)
+
+Enlace de entrevista:
+
+**Resumen:**
+
+
+
+* **Entrevista #3:**
+
+Nombre y Apellido:
+
+Edad:
+
+Distrito:
+
+![Entrevista1](assets/)
+
+Enlace de entrevista:
+
+**Resumen:**
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
 ## Conclusiones

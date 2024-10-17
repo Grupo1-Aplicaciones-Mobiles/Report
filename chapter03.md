@@ -20,11 +20,13 @@ La tipografía influye directamente en cómo los usuarios interpretan el conteni
 
 - Colores:
 
-La eleccion de los colores para nuestra plataforma es fundamental, ya que tienen un gran impacto en la coherencia visual del diseño. Además, los colores transmiten emociones y mensaje específicos, por lo que ingluten en la atraccion visual de nuestro producto.
+La eleccion de los colores para nuestra plataforma es fundamental, ya que tienen un gran impacto en la coherencia visual del diseño. Además, los colores transmiten emociones y mensajes específicos, por lo que ingluten en la atraccion visual de nuestro producto.
 
-En "SafeDrive", el color azul se ha seleccionado como color principal, pues es sinónimo de confianza, tecnología y seguridad, siendo estos, atributos clave para la aplicación. El blanco es importante dentro de la paleta, su uso aporta claridad y limpieza al diseño, además de evocar simplicidad y pureza, lo que complementa con la eleccion del color azul. El color lila lo usamos como degradado con el azul, este tono refleja creatividad y calma, añadiendo originalidad al diseño.
+En "SafeDrive", el color azul se ha seleccionado como color principal, pues es sinónimo de confianza, tecnología y seguridad, siendo estos, atributos clave para la aplicación. El negro representa elegancia, solidez y sofisticación, es un color atemporal que trasmite autoridad y modernidad, lo que ayuda a establecer una sensación de confianza y profesionalismo en la aplicación. 
 
-La eleccion de estos colores permiten un diseño coherente, atractivo y accesible que mejora la experiencia del usuario y comunica de manera efectiva los valores que "SafeDrive" transmite.
+El blanco es importante dentro de la paleta, su uso aporta claridad y limpieza al diseño, además de evocar simplicidad y pureza, lo que complementa con la eleccion del color azul y negro ayudando a equilibrar el uso de estos. El tono de gris claro se emplea para agregar matices sutiles en fondos, al no ser intrusivo, mantiene el enfoque en los colores primarios ayudando a suavizar el diseño. El color lila claro lo usamos como degradado con el azul, introduce un tono de calma y profundidad, que refleja la energía y la creatividad de la aplicación.
+
+La eleccion de estos colores logra un equilibrio visual que comunica profesionalismo, confianza y modernidad. El contraste entre el negro, los tonos de azul y el blanco permite una experiencia de usuario clara y funcional, mientras que el gris claro y el lila claro añaden sofisticación y creatividad al diseño, asegurando que nuestra plataforma sea atractiva y atractivo.
 
 ![Colors](assets/colors.png)
 
@@ -36,17 +38,17 @@ La eleccion de estos colores permiten un diseño coherente, atractivo y accesibl
 
 El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. 
 
-Para nuestra landing page ,destacamos secciones importantes en la barra de navegación, estos son: "Home", Ubicación", "Ofrecemos", "Beneficios", "Nosotros" y "Contacto". 
+Para nuestra landing page, destacamos secciones importantes en la barra de navegación, estos son: "Inicio", "Nosotros", "Servicios", "Beneficios" y "Contacto".
 
 * Página principal: La parte superior de la página presenta una sección principal destacada por una breve descripción de la plataforma, en la que se destaca su objetivo principal de garantizar la seguridad de los vehículos desde cualquier lugar.
 
-* Ofrecemos: Esta sección muestra las características que ofrece SafeDrive.
+* Nosotros: En esta sección se presentan los antecedentes de la empresa y su misión. El texto describe SafeDrive como una startup peruana centrada en reducir el robo de vehículos y ayudar a los conductores principiantes.
+
+* Servicios: Esta sección muestra las características que ofrece SafeDrive.
 Contiene tres elementos: un dispositivo de seguimiento, asistencia para principiantes y avisos de caducidad, cada uno de ellos acompañado de un icono y un botón "Más" para obtener más detalles.
 
 * Beneficios: La sección de beneficios destaca las ventajas de utilizar las funciones de SafeDrive, como las alertas de robo, el mantenimiento de los documentos en orden y los consejos de conducción.
 Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y descripciones concisas, lo que facilita a los usuarios la comprensión del valor del servicio.
-
-* Nosotros: En esta sección se presentan los antecedentes de la empresa y su misión. El texto describe SafeDrive como una startup peruana centrada en reducir el robo de vehículos y ayudar a los conductores principiantes.
 
 * Contacto: Esta sección presenta un sencillo formulario de contacto con campos para correo electrónico, número de teléfono y nombre, que permite a los usuarios ponerse en contacto.
 
@@ -56,7 +58,7 @@ Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y 
 <br>
 
 1. Secciones:
-* "Home": Pagina principal.
+* "Inicio": Pagina principal.
 * "Nosotros": Mencionamos nuestro objetivo como startup a los usuarios.
 * "Servicios": Funcionalidades disponibles del servicio.
 * "Beneficios": Ventajas de las caracteristicas dadas anteriormente.
@@ -86,18 +88,18 @@ Cada ventaja se presenta en recuadros individuales con imágenes relacionadas y 
 <td>El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos</td>
 <br><br>
 
-1. Navbar: En la parte superior de la página se encuentra una barra que incluye enlaces a las secciones principales del sitio. Los enlaces principales son: "Home", "Nosotros", "Servicios", "Beneficios" y "Contacto".
+1. Navbar: En la parte superior de la página se encuentra una barra que incluye enlaces a las secciones principales del sitio. Los enlaces principales son: "Inicio", "Nosotros", "Servicios", "Beneficios" y "Contacto".
 
 ### 3.1.2.5 Navigation Systems.
 <td>El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación</td>
 <br><br>
 
 
-1. Navegación jerárquica: La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece. Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
+1. **Navegación jerárquica:** La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece. Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
 
-2. Boton de llamada a la accion: Un boton flotante que siempre está visible y permite a los usuarios acceder a Registrarse e Iniciar sesion.
+2. **Boton de llamada a la accion:** Un boton flotante que siempre está visible y permite a los usuarios acceder a Registrarse e Iniciar sesion.
 
-3. Sección inferior: En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos".
+3. **Sección inferior:** En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos" y un footer con más información sobre la empresa.
 
 ## 3.1.3. Landing Page UI Design. 
 El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.

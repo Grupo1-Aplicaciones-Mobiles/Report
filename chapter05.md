@@ -623,8 +623,15 @@ Para este tercer sprint, nos enfocamos en migrar nuestro aplicativo móvil a flu
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.3.5. Execution Evidence for Sprint Review.
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Para este sprint, nos enfocamos en la implementación de las funcionalidades clave de la aplicación móvil, asegurándonos de que la transición a flutter sea exitosa y que el producto final cumpla con los estándares de calidad y usabilidad esperados. A continuación, se presenta la documentación de los servicios desarrollados durante este sprint.<br>
+
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Para el despliegue de nuestro servicio, se ha realizado en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
+![Deployment](assets/deployservice.png)<br>
+Para el despliegue de la base de datos se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.
+![Deployment](assets/db.png)
 ## 5.2.3.8. Team Collaboration Insights during Sprint.
+Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
 
 
 

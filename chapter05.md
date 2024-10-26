@@ -600,6 +600,34 @@ Para la realización de este sprint, hemos mantenido contacto continuo mediante 
 ![image](https://github.com/user-attachments/assets/9d881690-5df5-4639-b77d-7a5917f48ae6)
 
 
+# 5.2.3. Sprint 3
+Para este tercer sprint, nos enfocamos en migrar nuestro aplicativo móvil a flutter, con el objetivo de mejorar la experiencia del usuario y optimizar el rendimiento de la aplicación. Durante este ciclo, nos centramos en la implementación de las funcionalidades clave de la aplicación, asegurándonos de que la transición a flutter sea exitosa y que el producto final cumpla con los estándares de calidad y usabilidad esperados.
+## 5.2.3.1. Sprint Planning 3.
+|                                 |                                                                                                                                                                                                                                  |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                        | Sprint 3                                                                                                                                                                                                                         |
+| Sprint Planning Background      |                                                                                                                                                                                                                                  |
+| Date                            | 2024-10-19                                                                                                                                                                                                                       |
+| Time                            | 04:27 PM                                                                                                                                                                                                                         |
+| Location                        | Discord                                                                                                                                                                                                                          |
+| Prepared by                     | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                                                                 |
+| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                     |
+| Sprint 3 Review Summary         | En el desarrollo del primer sprint, logramos implementar de manera notable la Landing Page de nuestro proyecto.                                                                                                                  |
+| Sprint 3 Retrospective Summary  | En retrospectiva del primer sprint, detectamos áreas de mejora, como la comunicación y el tiempo en que nos tomaba hacer las tareas. Por eso, nos comprometemos a seguir mejorando nuestro proceso de trabajo de manera continua. |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                  |
+| Sprint 3 Goal                   | Realizar un avance del Frontend de nuestra aplicación móvil. Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del primer sprint.                                                  |
+| Sprint 3 Velocity               | Hemos decidido establecer nuestra capacidad de entrega en 5 User Stories para este sprint                                                                                                                                        |
+| Sum of Story Points             | El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 1 es 10                                                                                                                             |
+## 5.2.3.2. Sprint Backlog 3.
+## 5.2.3.3. Development Evidence for Sprint Review.
+## 5.2.3.4. Testing Suite Evidence for Sprint Review.
+## 5.2.3.5. Execution Evidence for Sprint Review.
+## 5.2.3.6. Services Documentation Evidence for Sprint Review.
+## 5.2.3.7. Software Deployment Evidence for Sprint Review.
+## 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
 ## 5.3. Validation Interviews.
 
 El objetivo de estas entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los usuarios al probar nuestra aplicación móvil. Buscamos obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y a mejorar nuestra comprensión sobre sus necesidades y deseos.

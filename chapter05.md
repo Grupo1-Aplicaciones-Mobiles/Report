@@ -602,24 +602,65 @@ Para la realización de este sprint, hemos mantenido contacto continuo mediante 
 
 # 5.2.3. Sprint 3
 Para este tercer sprint, nos enfocamos en migrar nuestro aplicativo móvil a flutter, con el objetivo de mejorar la experiencia del usuario y optimizar el rendimiento de la aplicación. Durante este ciclo, nos centramos en la implementación de las funcionalidades clave de la aplicación, asegurándonos de que la transición a flutter sea exitosa y que el producto final cumpla con los estándares de calidad y usabilidad esperados.
+
 ## 5.2.3.1. Sprint Planning 3.
-|                                 |                                                                                                                                                                                                                                  |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint #                        | Sprint 3                                                                                                                                                                                                                         |
-| Sprint Planning Background      |                                                                                                                                                                                                                                  |
-| Date                            | 2024-10-19                                                                                                                                                                                                                       |
-| Time                            | 04:27 PM                                                                                                                                                                                                                         |
-| Location                        | Discord                                                                                                                                                                                                                          |
-| Prepared by                     | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                                                                 |
-| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                     |
-| Sprint 3 Review Summary         | En el desarrollo del primer sprint, logramos implementar de manera notable la Landing Page de nuestro proyecto.                                                                                                                  |
-| Sprint 3 Retrospective Summary  | En retrospectiva del primer sprint, detectamos áreas de mejora, como la comunicación y el tiempo en que nos tomaba hacer las tareas. Por eso, nos comprometemos a seguir mejorando nuestro proceso de trabajo de manera continua. |
-| Sprint Goal & User Stories      |                                                                                                                                                                                                                                  |
-| Sprint 3 Goal                   | Realizar un avance del Frontend de nuestra aplicación móvil. Lograr un índice de cumplimiento del 100%, lo que confirmará que se han alcanzado los objetivos del primer sprint.                                                  |
-| Sprint 3 Velocity               | Hemos decidido establecer nuestra capacidad de entrega en 5 User Stories para este sprint                                                                                                                                        |
-| Sum of Story Points             | El total de Story Point asignados a las User Stories que se estan incorporando a este Sprint 1 es 10                                                                                                                             |
+|                                 |                                                                                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                        | Sprint 3                                                                                                                                                                                                                          |
+| Sprint Planning Background      | El propósito de este sprint es continuar el desarrollo de la aplicación móvil enfocándonos en el frontend y la migración completa a Flutter para mejorar la compatibilidad y el rendimiento.                                                                                                                                                                                                                                  |
+| Date                            | 2024-10-19                                                                                                                                                                                                                        |
+| Time                            | 04:27 PM                                                                                                                                                                                                                          |
+| Location                        | Discord                                                                                                                                                                                                                           |
+| Prepared by                     | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                      |
+| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                      |
+| Sprint 3 Review Summary         | En el desarrollo del tercer sprint, logramos implemetar responsive web design a la Landing Page de nuestro proyecto, asi como tambien migramos nuestra app móvil de Android Studio a Flutter.                                     |
+| Sprint 3 Retrospective Summary  | Después de revisar el tercer sprint, identificamos algunas áreas para mejorar, como la comunicación y el tiempo que nos tomaba completar las tareas. Por ello, nos comprometemos a seguir optimizando nuestro proceso de trabajo de forma continua. |
+| Sprint Goal & User Stories      | Goal: Desarrollar el frontend de la aplicación móvil con Flutter, garantizando una interfaz de usuario responsive y optimizada.                                                                                                                                                                                                                                  |
+| Sprint 3 Goal                   | Desarrollar el Frontend de nuestra aplicación móvil utilizando Flutter y alcanzar un 100% de cumplimiento, asegurará que hayamos cumplido los objetivos del tercer sprint.                               |
+| Sprint 3 Velocity               | Hemos decidido fijar nuestra capacidad de entrega en 5 User Stories para este sprint. Con esto, nos aseguramos de tener un objetivo claro y alcanzable.                                               |
+| Sum of Story Points             | Para el Sprint 3, hemos asignado un total de 10 Story Points a las User Stories que se están incorporando. Este objetivo nos permitirá centrarnos en entregas concretas y medibles.                                                |
+
 ## 5.2.3.2. Sprint Backlog 3.
+_Tabla principal del planeamiento del Sprint Backlog 3._
+
+|            |                                                                   |                  |                       |                                                                                           |                    |                  |                                                 |
+| ---------- | ----------------------------------------------------------------- |------------------| --------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ---------------- | ----------------------------------------------- |
+| Sprint #   |                                                                   | Sprint 3         |                       |                                                                                           |                    |                  |                                                 |
+| User Story |                                                                   | Work-Item / Task |                       |                                                                                           |                    |                  |                                                 |
+| Id         | Title                                                             | Id               | Title                 | Descripcion                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
+| US01       | Interfaz util en la pantalla de inicio de la aplicación móvil     | T01              | Pantalla de inicio    | Crear una pantalla inicial visualmente atractiva y funcional para la aplicación móvil.       | 2 hours            | Moises Donayre   | Done                                            |
+| US02       | Implementación de una Navegación Intuitiva en la aplicación móvil | T02              | Navegación            | Implementar una barra de navegación que facilite el desplazamiento entre diferentes secciones de la aplicación. | 2 hours            | Paolo Martinez | Done                                            |
+| US05       | Registrar vehículos en la aplicación                              | T03              | Registro de vehículos | Añadir una sección en la aplicación para registrar vehículos.                              | 3 hours            | Paolo Martinez   | Done                                            |
+| US11       | Eliminar vehículo registrado en la aplicación móvil               | T04              | Eliminar vehículo     | Habilitar la opción de eliminar vehículos dentro de la aplicación.                      | 3 hours            | Paolo Martinez   | Done                                            |
+| US13       | Comunicación con la base de datos y la aplicación móvil           | T05              | Conexión con API      | Conectar la interfaz de la aplicación con la API para comunicarse con la base de datos.   | 2 hours            | Juan Cueto       | In Progress                                     |
+
 ## 5.2.3.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+![image](assets/commit_login_branch.png)
+![image](assets/commit_profile_branch.png)
+![image](assets/commit_notifications_branch.png)
+![image](assets/commit_vehicles_branch.png)
+- Tabla de los commits realizados principales y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3
+
+| Repository        | Branch               | Commit Id | Commit Message | Commit Message Body              | Commited on (Date) |
+|-------------------|----------------------|-----------|----------------|----------------------------------|--------------------|
+| safeDrive-Flutter | login_and_register   | 15308d2   | feat           | added login and register screens | 19/10              |
+| safeDrive-Flutter | login_and_register   | 611c57c   | refactor       | updated navigation logic in login and register screens | 22/10              |
+| safeDrive-Flutter | features/notications | 88fd4cf   | feat           | add notifications page           | 25/10              |
+| safeDrive-Flutter | features/profile     | 055f2d0   | feat           | add profiles pages and widgets   | 26/10              |
+| safeDrive-Flutter | features/vehicles    | 1b3e4c7   | feat           | add extra dependencies & firebase | 24/09              |
+| safeDrive-Flutter | features/vehicles    | 36717bc   | feat           | add app constants                | 24/09              |
+| safeDrive-Flutter | features/vehicles    | 3d264d3   | feat           | add vehicle model                | 24/09              |
+| safeDrive-Flutter | features/vehicles    | 7dda5e7   | feat           | add vehicle service              | 24/09              |
+| safeDrive-Flutter | features/vehicles    | f6c0d12   | feat           | add vehicle item widget          | 24/09              |
+| safeDrive-Flutter | features/vehicles    | de0e9f0   | feat           | add vehicle list page            | 24/09              |
+| safeDrive-Flutter | features/vehicles    | 99c33d9   | feat           | add vehicle detail page          | 24/09              |
+| safeDrive-Flutter | features/vehicles    | a8aac60   | feat           |add vehicle detail page           | 24/09              |
+| safeDrive-Flutter | features/vehicles    | 795c696   | fix            |  update main.dart                | 25/09              |
+| safeDrive-Flutter | features/vehicles    | e1342b3   | feat           | create navbar                                 | 25/09              |
+
+
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.3.5. Execution Evidence for Sprint Review.
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review.
@@ -627,7 +668,7 @@ Para este sprint, nos enfocamos en la implementación de las funcionalidades cla
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Para el despliegue de nuestro servicio, se ha realizado en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
-![Deployment](assets/deployservice.png)<br>
+![Deployment](assets/deployservice.png) <br>
 Para el despliegue de la base de datos se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.
 ![Deployment](assets/db.png)
 ## 5.2.3.8. Team Collaboration Insights during Sprint.

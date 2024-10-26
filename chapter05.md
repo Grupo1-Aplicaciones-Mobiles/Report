@@ -662,7 +662,40 @@ En esta sección, se describen los avances en la implementación de los producto
 
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
 ## 5.2.3.5. Execution Evidence for Sprint Review.
+
+En esta sección se muestra el Frontend de la aplicación funcional. Para este sprint, decidimos rehacer nuestro Frontend utilizando el framework de Flutter, se puede apreciar las distintas vistas e interfaces realizadas en este sprint:
+
+Pantalla de registro
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 57_5bdca1c2](https://github.com/user-attachments/assets/d9244691-0644-47e9-a70d-8d7f2d276fe3)
+
+Pantalla de inicio de sesión
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 57_11b281b4](https://github.com/user-attachments/assets/2a0037f1-29fa-43ee-9f3d-592c96be4308)
+
+Pantalla de perfil de usuario
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 58_0ed7b687](https://github.com/user-attachments/assets/acbeeca9-283e-4579-a9d2-12da2a999c2c)
+
+Pantalla de edición de perfil
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 58_45d8806a](https://github.com/user-attachments/assets/21f8f4f0-c2bc-4a95-a66e-278602fc92c5)
+
+Pantalla de lista de vehículos
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 58_6d97bc35](https://github.com/user-attachments/assets/5de8ec72-bbb7-4eec-a6dc-ce599913a43e)
+
+Pantalla de agregar vehículo
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 58_471a1bd7](https://github.com/user-attachments/assets/08c14e4a-ec76-4a42-b236-457f72bd05a9)
+
+Pantalla de notificaciones
+
+![Imagen de WhatsApp 2024-10-26 a las 12 29 58_69202843](https://github.com/user-attachments/assets/8b878bb7-9a54-400f-95f5-c044779a1b38)
+
+
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review.
 Para este sprint, nos enfocamos en la implementación de las funcionalidades clave de la aplicación móvil, asegurándonos de que la transición a flutter sea exitosa y que el producto final cumpla con los estándares de calidad y usabilidad esperados. A continuación, se presenta la documentación de los servicios desarrollados durante este sprint.<br>
 

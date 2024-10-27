@@ -435,7 +435,9 @@ En esta sección, se describen los avances en la implementación de los producto
 
 En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
-| SafeDrive-LandingPage | main | 6655481 | feat | added tests for footer | 28/09  |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
+| SafeDrive-LandingPage | main | 6655481 | feat | added tests for footer | 28/09 |
 | SafeDrive-LandingPage | main | 8eb3fdd | feat | added tests for navbar  | 28/09 |
 | SafeDrive-LandingPage | main | 8824128 | feat | added tests for sections | 28/09 |
 
@@ -662,6 +664,15 @@ En esta sección, se describen los avances en la implementación de los producto
 
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review.
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+| Repository          | Branch           | Commit Id | Commit Message | Commit Message Body      | Commited on (Date) |
+| ------------------- | ---------------- | --------- | -------------- | ------------------------ | ------------------ |
+| safeDrive-Flutter | develop-login_and_register             | 7ec42a    | feat           | add test for login and register     | 26/09              |
+| safeDrive-Flutter | feature/notifications           | 9b763bc   | feat           | add test notifications screen      | 27/09              |
+| safeDrive-Flutter | feature/vehicles | 5h81f2e   | feat           | add test vehicle screens | 27/09              |
+| safeDrive-Flutter | feature/profile | 5f2d0   | feat           | add test profile screen | 27/09              |
+| safeDrive-Flutter | feature/tracking | 055f2d0   | feat           | add test tracking screen | 27/09              |
 
 ## 5.2.3.5. Execution Evidence for Sprint Review.
 

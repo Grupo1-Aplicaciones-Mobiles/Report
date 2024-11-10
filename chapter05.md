@@ -901,6 +901,11 @@ Enlace de entrevista:
 
 ## 5.4. Video About-the-Product.
 
+![Video](assets/VideoAboutProduct_Image.png)
+<br>
+Enlace del video: <br>
+https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
+
 ## Conclusiones
 
 ## Conclusiones y recomendaciones.
@@ -908,6 +913,10 @@ Enlace de entrevista:
 ## Video App Validation
 
 ## Video About the product
+![Video](assets/VideoAboutProduct_Image.png)
+<br>
+Enlace del video: <br>
+https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 
 ## Video About the team
 

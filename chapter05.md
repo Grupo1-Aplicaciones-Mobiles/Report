@@ -857,17 +857,17 @@ El registro de entrevistas es una herramienta fundamental que nos ayuda a recopi
 
 - **Entrevista #1:**
 
-Nombre y Apellido:
+Nombre y Apellido: Andres Torres
 
-Edad:
+Edad: 20
 
-Distrito:
+Distrito: Lince
 
-![Entrevista1](assets/)
+![Entrevista1](assets/Entrevista_Producto_Fabrizio.png)
 
-Enlace de entrevista:
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EZ43ddB2yk5BicL8laoF184BNuTU_TiFWMpnxf_JaqSkrQ?e=Tj0b9w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen:**
+**Resumen:** El usuario se mostró satisfecho con la aplicación, destacando su facilidad de uso y la claridad de las notificaciones. Sugirió añadir una función de seguimiento de vehículos en tiempo real y mejorar la velocidad de las alertas.
 
 - **Entrevista #2:**
 

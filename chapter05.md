@@ -751,6 +751,69 @@ Para la realización de este sprint, hemos mantenido contacto continuo mediante 
 
 ![Collaboration_Insights](assets/Collaboration_Insights_TB4.png)
 
+
+## 5.2.4. Sprint Backlog 4.
+
+_Tabla principal del planeamiento del Sprint Backlog 4._
+
+|            |                                                               |                  |                                    |                                                                                                           |                    |                  |                                                 |
+|------------|---------------------------------------------------------------|------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------|------------------|-------------------------------------------------|
+| Sprint #   |                                                               | Sprint 4         |                                    |                                                                                                           |                    |                  |                                                 |
+| User Story |                                                               | Work-Item / Task |                                    |                                                                                                           |                    |                  |                                                 |
+| Id         | Title                                                         | Id               | Title                              | Descripcion                                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
+| US01       | Interfaz util en la pantalla de inicio de la aplicación móvil | T01              | Implementación de la vista Home    | Desarrollar una interfaz de presentación intuitiva principal que dirigia y muestra los items importantes. | 2 hours            | Fabrizio Sanchez | Done                                            |
+| US07       | Determinar la distancia entre el vehículo y el usuario        | T02              | Uso de la Api                      | Implentar la integracion de la API para determinar las rutas y distancias entre vehículos y usuario.      | 2 hours            | Moises Donayre   | Done                                            |
+| US16       | Autenticación de usuario                                      | T03              | Autentificación                    | Conectar los endpoint de autentificación con las pantallas de inicio de sesión y registro.                | 2 hours            | Paolo Martinez   | Done                                            |
+| US20       | Actualizar coordenadas de usuario                             | T04              | Actualizar Coordenadas de Usuario  | Implementar la integración de este endpoint con la aplicación móvil.                                      | 3 hours            | Moises Donayre   | In Progress                                     |
+| US21       | Actualizar coordenadas de vehiculo                            | T05              | Actualizar Coordenadas de Vehículo | Implementar la integración de este endpoint con la aplicación móvil.                                      | 3 hours            | Moises Donayre   | In Progress                                     |
+| US13       | Comunicación con la base de datos y la aplicación móvil       | T06              | Conexión con API                   | Conectar la interfaz de la aplicación con la API para comunicarse con la base de datos.                   | 2 hours            | Juan Cueto       | Done                                            |
+
+## 5.2.4.1. Development Evidence for Sprint Review.
+
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend y Backend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+
+- Tabla de los commits realizados principales y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4
+
+| Repository        | Branch                 | Commit Id | Commit Message | Commit Message Body                    | Commited on (Date) |
+|-------------------|------------------------|-----------|----------------|----------------------------------------|--------------------|
+| safeDrive-Flutter | feature/authentication | d714180   | feat           | change routes & add styles             | 26/10              |
+| safeDrive-service | develop                | ed56976   | feat           | add user attributes and update methods | 07/11              |
+| safeDrive-service | develop                | 8cce9fc   | refactor       | update web security                    | 08/11              |
+| safeDrive-Flutter | feature/authentication | c622235   | feat           | add jwt authentication                 | 08/11              |
+| safeDrive-Flutter | feature/authentication | 8e17a3b   | feat           | change sign up method                  | 09/11              |
+
+
+
+## 5.2.4.2. Testing Suite Evidence for Sprint Review.
+
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+| Repository        | Branch                     | Commit Id | Commit Message | Commit Message Body             | Commited on (Date) |
+| ----------------- | -------------------------- | --------- | -------------- | ------------------------------- | ------------------ |
+| safeDrive-Flutter | develop-login_and_register | 7ec42a    | feat           | add test for login and register | 26/09              |
+| safeDrive-Flutter | feature/notifications      | 9b763bc   | feat           | add test notifications screen   | 27/09              |
+| safeDrive-Flutter | feature/vehicles           | 5h81f2e   | feat           | add test vehicle screens        | 27/09              |
+| safeDrive-Flutter | feature/profile            | 5f2d0     | feat           | add test profile screen         | 27/09              |
+| safeDrive-Flutter | feature/tracking           | 055f2d0   | feat           | add test tracking screen        | 27/09              |
+
+## 5.2.4.3. Execution Evidence for Sprint Review.
+Se muestra el Frontend de la aplicación funcional. Las nuevas vistas e interfaces realizadas en este sprint son las siguientes:
+Home <br><br>
+
+
+## 5.2.4.4. Services Documentation Evidence for Sprint Review.
+Para este sprint, actualizamos y añadimos nuevas pantallas a nuestra aplicación móvil, así como también implementamos la autenticación de usuario y la actualización de coordenadas de usuario y vehículo. A si mismo, se ha realizado la integración de la API para determinar la distancia entre el vehículo y el usuario.
+
+## 5.2.4.5. Software Deployment Evidence for Sprint Review.
+El servicio actualizado con los últimos cambios del sprint, se ha mantenido en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
+![Deployment](assets/deployservice.png) <br>
+Para el despliegue de la base de datos igualmente se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.<br>
+![Deployment](assets/db.png)
+
+## 5.2.4.6. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 El objetivo de estas entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los usuarios al probar nuestra aplicación móvil. Buscamos obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y a mejorar nuestra comprensión sobre sus necesidades y deseos.

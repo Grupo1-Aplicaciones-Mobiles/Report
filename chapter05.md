@@ -919,7 +919,10 @@ Enlace del video: <br>
 https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 
 ## Video About the team
-
+![Video](assets/AboutTheTeam_Imagen.png)
+<br>
+Enlace del video: <br>
+https://youtu.be/dJs9D_2jW8U
 ## Glosario
 
 ## Bibliografía

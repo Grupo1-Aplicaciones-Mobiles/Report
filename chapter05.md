@@ -799,6 +799,9 @@ En esta sección, presentamos la evidencia de las pruebas realizadas durante el 
 ## 5.2.4.3. Execution Evidence for Sprint Review.
 Se muestra el Frontend de la aplicación funcional. Las nuevas vistas e interfaces realizadas en este sprint son las siguientes:
 Home <br><br>
+![Home](assets/home.png) <br><br>
+![Rastreo](assets/rastrear.png) <br><br>
+![Rastreo](assets/rastrear2.png) <br><br>
 
 
 ## 5.2.4.4. Services Documentation Evidence for Sprint Review.
@@ -811,6 +814,9 @@ Para el despliegue de la base de datos igualmente se ha utilizado aws, una plata
 ![Deployment](assets/db.png)
 
 ## 5.2.4.6. Team Collaboration Insights during Sprint.
+Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
+
+![Collaboration_Insights](assets/Collaboration_Insights_TB4.png)
 
 
 ## 5.3. Validation Interviews.

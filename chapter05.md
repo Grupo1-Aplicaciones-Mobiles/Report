@@ -751,6 +751,27 @@ Para la realización de este sprint, hemos mantenido contacto continuo mediante 
 
 ![Collaboration_Insights](assets/Collaboration_Insights_TB4.png)
 
+## Sprint 4
+
+Para este cuarto sprint, nos enfocamos en la implementación de la funcionalidad de rastreo de vehículos en tiempo real. Durante este ciclo, priorizamos la integración de la API de rastreo y la actualización de las coordenadas de usuario y vehículo en la aplicación móvil. Este sprint marca un avance clave hacia la entrega de un producto funcional y listo para su lanzamiento.
+
+## 5.2.3.9. Sprint Planning 4.
+
+|                                 |                                                                                                                                                                                                                                     |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                        | Sprint 4                                                                                                                                                                                                                            |
+| Sprint Planning Background      | El propósito de este sprint es continuar el desarrollo de la aplicación móvil, enfocándonos en la integración de nuevas funcionalidades y la optimización del rendimiento.                                                          |
+| Date                            | 2024-11-02                                                                                                                                                                                                                          |
+| Time                            | 04:30 PM                                                                                                                                                                                                                            |
+| Location                        | Discord                                                                                                                                                                                                                             |
+| Prepared by                     | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                        |
+| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                        |
+| Sprint 4 Review Summary         | En el desarrollo del cuarto sprint, logramos integrar nuevas funcionalidades y optimizar el rendimiento de la aplicación móvil.                                                                                                     |
+| Sprint 4 Retrospective Summary  | Después de revisar el cuarto sprint, identificamos algunas áreas para mejorar, como la gestión del tiempo y la asignación de tareas. Por ello, nos comprometemos a seguir optimizando nuestro proceso de trabajo de forma continua. |
+| Sprint Goal & User Stories      | Goal: Integrar nuevas funcionalidades y optimizar el rendimiento de la aplicación móvil.                                                                                                                                            |
+| Sprint 4 Goal                   | Integrar nuevas funcionalidades y optimizar el rendimiento de la aplicación móvil, alcanzando un 100% de cumplimiento, asegurará que hayamos cumplido los objetivos del cuarto sprint.                                              |
+| Sprint 4 Velocity               | Hemos decidido fijar nuestra capacidad de entrega en 6 User Stories para este sprint. Con esto, nos aseguramos de tener un objetivo claro y alcanzable.                                                                             |
+| Sum of Story Points             | Para el Sprint 4, hemos asignado un total de 12 Story Points a las User Stories que se están incorporando. Este objetivo nos permitirá centrarnos en entregas concretas y medibles.                                                 |
 
 ## 5.2.4. Sprint Backlog 4.
 

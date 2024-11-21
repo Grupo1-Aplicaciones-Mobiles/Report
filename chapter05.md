@@ -951,7 +951,29 @@ https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 Enlace del video: <br>
 https://youtu.be/dJs9D_2jW8U
 ## Glosario
+- **API:** Interfaz de programación de aplicaciones.
+- **Flutter:** Framework de código abierto creado por Google para desarrollar aplicaciones móviles.
+- **Frontend:** Parte de la aplicación que interactúa con el usuario.
+- **Gherkin:** Lenguaje de dominio específico para definir escenarios de prueba.
+- **GitHub:** Plataforma de desarrollo colaborativo de software.
+- **HeroKu:** Plataforma en la nube que permite a los desarrolladores construir, ejecutar y operar aplicaciones.
+- **Sprint:** Periodo de tiempo en el que se desarrolla un conjunto de funcionalidades.
+- **UI:** Interfaz de usuario.
+- **UX:** Experiencia de usuario.
+- **Vista:** Pantalla o sección de la aplicación.
+- **Widget:** Componente visual de la interfaz de usuario.
+- **AWS:** Amazon Web Services, plataforma de servicios en la nube.
+- **Base de datos:** Sistema de almacenamiento de información.
+- **Retrofit:** Biblioteca de Android para consumir servicios web.
 
 ## Bibliografía
+- Flutter. (2024). Flutter. Recuperado de https://flutter.dev/
+- GitHub. (2024). GitHub. Recuperado de https://github.com
+- HeroKu. (2024). HeroKu. Recuperado de https://www.heroku.com/
+- Amazon Web Services. (2024). Amazon Web Services. Recuperado de https://aws.amazon.com/
+- Retrofit. (2024). Retrofit. Recuperado de https://square.github.io/retrofit/
+- Gherkin. (2024). Gherkin. Recuperado de https://cucumber.io/docs/gherkin/
+- Google. (2024). Google. Recuperado de https://www.google.com/
 
 ## Anexos
+- **Anexo 1:** [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EZ43ddB2yk5BicL8laoF184BNuTU_TiFWMpnxf_JaqSkrQ?e=Tj0b9w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

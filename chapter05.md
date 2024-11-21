@@ -936,6 +936,12 @@ https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 ## Conclusiones
 
 ## Conclusiones y recomendaciones.
+- Durante el desarrollo de los sprints, logramos implementar un Frontend funcional y atractivo para nuestra aplicación móvil, utilizando Flutter para mejorar la experiencia del usuario y optimizar el rendimiento de la aplicación.
+- Aprender y lograr implementar las funcionalidades clave de la aplicación, como la autenticación de usuario, la actualización de coordenadas de usuario y vehículo, y la integración de la API de rastreo en tiempo real, nos permitió avanzar significativamente hacia la entrega de un producto funcional y listo para su lanzamiento.
+- Las entrevistas de validación con usuarios fue esencial para obtener retroalimentación sobre la experiencia de uso de la aplicación, identificar áreas de mejora y adaptar la aplicación a las necesidades y expectativas de nuestros usuarios.
+- El despliegue de nuestra aplicación en HeroKu y AWS garantiza la disponibilidad y escalabilidad, asegurando que nuestros usuarios puedan acceder a la aplicación de manera segura y eficiente.
+- Mantener una comunicación constante y equitativa entre los miembros del equipo, fue importante para la distribución de las tareas de manera equilibrada y asegurarnos un avance constante y equilibrado en el desarrollo de la aplicación.
+
 
 ## Video App Validation
 

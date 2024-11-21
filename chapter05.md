@@ -781,9 +781,9 @@ _Tabla principal del planeamiento del Sprint Backlog 4._
 |------------|---------------------------------------------------------------|------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------|------------------|-------------------------------------------------|
 | Sprint #   |                                                               | Sprint 4         |                                    |                                                                                                           |                    |                  |                                                 |
 | User Story |                                                               | Work-Item / Task |                                    |                                                                                                           |                    |                  |                                                 |
-| Id         | Title                                                         | Id               | Title                              | Descripcion                                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
+| Id         | Title                                                         | Id               | Title                              | Descripción                                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
 | US01       | Interfaz util en la pantalla de inicio de la aplicación móvil | T01              | Implementación de la vista Home    | Desarrollar una interfaz de presentación intuitiva principal que dirigia y muestra los items importantes. | 2 hours            | Fabrizio Sanchez | Done                                            |
-| US07       | Determinar la distancia entre el vehículo y el usuario        | T02              | Uso de la Api                      | Implentar la integracion de la API para determinar las rutas y distancias entre vehículos y usuario.      | 2 hours            | Moises Donayre   | Done                                            |
+| US07       | Determinar la distancia entre el vehículo y el usuario        | T02              | Uso de la Api                      | Implementar la integración de la API para determinar las rutas y distancias entre vehículos y usuario.    | 2 hours            | Moises Donayre   | Done                                            |
 | US16       | Autenticación de usuario                                      | T03              | Autentificación                    | Conectar los endpoint de autentificación con las pantallas de inicio de sesión y registro.                | 2 hours            | Paolo Martinez   | Done                                            |
 | US20       | Actualizar coordenadas de usuario                             | T04              | Actualizar Coordenadas de Usuario  | Implementar la integración de este endpoint con la aplicación móvil.                                      | 3 hours            | Moises Donayre   | In Progress                                     |
 | US21       | Actualizar coordenadas de vehiculo                            | T05              | Actualizar Coordenadas de Vehículo | Implementar la integración de este endpoint con la aplicación móvil.                                      | 3 hours            | Moises Donayre   | In Progress                                     |
@@ -838,6 +838,83 @@ Para el despliegue de la base de datos igualmente se ha utilizado aws, una plata
 Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
 
 ![Collaboration_Insights](assets/Collaboration_Insights_TB4.png)
+
+## 5.2.4.7 Sprint 5
+
+Para este quinto sprint, nos enfocamos en continuar el desarrollo de la aplicación móvil, enfocándonos en la integración de nuevas funcionalidades y la optimización del rendimiento. Durante este ciclo, priorizamos la implementación de nuevas características y mejoras en la interfaz de usuario, asegurándonos de que el producto final cumpla con los estándares de calidad y usabilidad esperados.
+
+## 5.2.4.8. Sprint Planning 5.
+
+|                                 |                                                                                                                                                                                                                                     |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                        | Sprint 5                                                                                                                                                                                                                            |
+| Sprint Planning Background      | El propósito de este sprint es culminar con el desarrollo de la aplicación móvil, enfocándonos en las ultimas integraciones funcionalidades sin terminar y  optimización del rendimiento.                                           |
+| Date                            | 2024-11-16                                                                                                                                                                                                                          |
+| Time                            | 03:30 PM                                                                                                                                                                                                                            |
+| Location                        | Discord                                                                                                                                                                                                                             |
+| Prepared by                     | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                        |
+| Attendees (to planning meeting) | Fabrizio Sanchez, Paolo Martinez, Juan Cueto, Moises Donayre                                                                                                                                                                        |
+| Sprint 5 Review Summary         | Se implemento las ultimas funcionalidades e integraciones con la API de Google Maps e interacciones entre el usuario con su vehiculo. Manteniendo los datos protegidos y actualizados en todo momento.                              |
+| Sprint 5 Retrospective Summary  | Después de revisar el cuarto sprint, identificamos algunas áreas para mejorar, como la gestión del tiempo y la asignación de tareas. Por ello, nos comprometemos a seguir optimizando nuestro proceso de trabajo de forma continua. |
+| Sprint Goal & User Stories      | Goal: Culminar con el desarrollo e implementación de funcionalidades no terminadas de desarrollar y optimizar el rendimiento de la aplicación móvil.                                                                                |
+| Sprint 5 Goal                   | Optimizar e Integrar las ultimas funcionalidades de la aplicación móvil, alcanzando un 100% de cumplimiento.                                                                                                                        |
+| Sprint 5 Velocity               | Hemos decidido fijar nuestra capacidad de entrega en 3 User Stories para este sprint. Con esto, nos aseguramos de tener un objetivo claro y alcanzable.                                                                             |
+| Sum of Story Points             | Para el Sprint 5, hemos asignado un total de 11 Story Points a las User Stories que se están incorporando. Este objetivo nos permitirá centrarnos en entregas concretas y medibles.                                                 |
+
+## 5.2.4.9. Sprint Backlog 5.
+
+_Tabla principal del planeamiento del Sprint Backlog 5._
+
+|            |                           |                  |                                              |                                                                                                            |                    |                  |                                                 |
+|------------|---------------------------|------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|------------------|-------------------------------------------------|
+| Sprint #   |                           | Sprint 5         |                                              |                                                                                                            |                    |                  |                                                 |
+| User Story |                           | Work-Item / Task |                                              |                                                                                                            |                    |                  |                                                 |
+| Id         | Title                     | Id               | Title                                        | Descripción                                                                                                | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
+| US16       | Autenticación de usuario  | T01              | Implementación de la función "Editar Perfil" | Implementar la función de editar perfil, para mantener actualizados los datos del usuario en todo momento. | 2 hours            | Paolo Martinez   | Done                                            |
+| US23       | Crear notificaciones      | T02              | Implementación de la vista Home              | Desarrollar a travéz de una API notificaciones para mantener informado al usuario respecto a su vehiculo.  | 2 hours            | Moises Donayre   | Done                                            |
+| US26       | Navegación de información | T03              | Uso de tips informativos                     | Implementar tips en la pantalla home acerca del cuidado y precauciones sobre el vehiculo del usuario.      | 2 hours            | Fabrizio Sanchez | Done                                            |
+
+## 5.2.5. Development Evidence for Sprint Review.
+
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend y Backend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+
+- Tabla de los commits realizados principales y relacionados con el desarrollo de todas las secciones del Sprint Backlog 5
+
+| Repository        | Branch                 | Commit Id | Commit Message | Commit Message Body                    | Commited on (Date) |
+|-------------------|------------------------|-----------|----------------|----------------------------------------|--------------------|
+| safeDrive-Flutter | feature/authentication |           | feat           | change routes & add styles             | 26/10              |
+| safeDrive-Flutter | develop                |           | feat           | add user attributes and update methods | 07/11              |
+| safeDrive-Flutter | develop                |           | refactor       | update web security                    | 08/11              |
+| safeDrive-Flutter | feature/authentication |           | feat           | add jwt authentication                 | 08/11              |
+| safeDrive-Flutter | feature/authentication |           | feat           | change sign up method                  | 09/11              |
+
+
+
+## 5.2.5.1. Testing Suite Evidence for Sprint Review.
+
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+| Repository        | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-------------------|--------|-----------|----------------|---------------------|--------------------|
+| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
+| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
+| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
+| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
+
+## 5.2.5.2. Execution Evidence for Sprint Review.
+
+## 5.2.5.3. Services Documentation Evidence for Sprint Review.
+
+## 5.2.5.4. Software Deployment Evidence for Sprint Review.
+Los servicios se mantienen en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
+![Deployment](assets/deployservice.png) <br>
+Para el despliegue de la base de datos se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.<br>
+![Deployment](assets/db.png)
+
+## 5.2.5.5. Team Collaboration Insights during Sprint.
+Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
+
 
 
 ## 5.3. Validation Interviews.

@@ -841,7 +841,7 @@ Para la realización de este sprint, hemos mantenido contacto continuo mediante 
 
 ## 5.2.4.7 Sprint 5
 
-Para este quinto sprint, nos enfocamos en continuar el desarrollo de la aplicación móvil, enfocándonos en la integración de nuevas funcionalidades y la optimización del rendimiento. Durante este ciclo, priorizamos la implementación de nuevas características y mejoras en la interfaz de usuario, asegurándonos de que el producto final cumpla con los estándares de calidad y usabilidad esperados.
+Para este quinto sprint, nos enfocamos en continuar el desarrollo de la aplicación móvil, enfocándonos en la integración y culmino de las últimas funcionalidades a terminar y mejorar el rendimiento de la aplicación. Durante este ciclo, priorizamos terminar la implementación de las características asegurándonos de que el producto final cumpla con los estándares de calidad y usabilidad esperados.
 
 ## 5.2.4.8. Sprint Planning 5.
 

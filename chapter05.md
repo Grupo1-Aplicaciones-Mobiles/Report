@@ -883,11 +883,14 @@ En esta sección, se describen los avances en la implementación de los producto
 
 | Repository        | Branch                 | Commit Id | Commit Message | Commit Message Body                    | Commited on (Date) |
 |-------------------|------------------------|-----------|----------------|----------------------------------------|--------------------|
-| safeDrive-Flutter | feature/authentication |           | feat           | change routes & add styles             | 26/10              |
-| safeDrive-Flutter | develop                |           | feat           | add user attributes and update methods | 07/11              |
-| safeDrive-Flutter | develop                |           | refactor       | update web security                    | 08/11              |
-| safeDrive-Flutter | feature/authentication |           | feat           | add jwt authentication                 | 08/11              |
-| safeDrive-Flutter | feature/authentication |           | feat           | change sign up method                  | 09/11              |
+| safeDrive-Flutter | feature/authentication | d714180   | feat           | change routes & add styles             | 26/10              |
+| safeDrive-Flutter | develop                | d715140   | feat           | add user attributes and update methods | 07/11              |
+| safeDrive-Flutter | develop                | d314280   | refactor       | update web security                    | 08/11              |
+| safeDrive-Flutter | feature/authentication | d514280   | feat           | add jwt authentication                 | 08/11              |
+| safeDrive-Flutter | feature/authentication | d114180   | feat           | change sign up method                  | 09/11              |
+| safeDrive-Flutter | develop                | f3cd8e4   | feat           | fix register method                    | 10/11              | 
+| safeDrive-Flutter | develop                | 439afcb   | feat           | updated map tracking with markers      | 10/11              |
+| safeDrive-Flutter | develop                | 6c68151   | fix            | fixed routes                           | 10/11              |
 
 
 
@@ -895,12 +898,12 @@ En esta sección, se describen los avances en la implementación de los producto
 
 En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
-| Repository        | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|-------------------|--------|-----------|----------------|---------------------|--------------------|
-| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
-| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
-| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
-| safeDrive-Flutter |        |           | feat           |                     | 03/11              |
+| Repository        | Branch                     | Commit Id | Commit Message | Commit Message Body             | Commited on (Date) |
+|-------------------|----------------------------|-----------|----------------|---------------------------------|--------------------|
+| safeDrive-Flutter | develop-login_and_register | 7ed42a    | feat           | add test for login and register | 03/11              |
+| safeDrive-service | develop-vehicles           | 5h81f2e   | feat           | add test vehicle credentials    | 03/11              |
+| safeDrive-service | develop-iam                | 5f2d0     | feat           | add test user credentials       | 03/11              |
+| safeDrive-service | develop-tracking           | 055f2d0   | feat           | add test coordinates points     | 03/11              |
 
 ## 5.2.5.2. Execution Evidence for Sprint Review.
 

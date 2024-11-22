@@ -1003,6 +1003,11 @@ Enlace de entrevista:
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+
+| Problema                                    | Heurística Violada                    | Severidad | Descripcion del problema                                                                                                                                                                                 |
+|---------------------------------------------|---------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Falta de claridad en opciones de navegación | Reconocimiento de opciones y acciones | 3         | Los usuarios pueden sentirse perdidos al querer navegar por las opciones de la aplicación ya que algunas de las opciones no son lo suficientemente claras, por lo que pueden perder interés.             |
+| Falta de botón de pánico para los usuarios  | Ayuda y documentación                 | 2         | La falta de un botón de pánico puede causar que los usuarios no puedan reportar una situación en la que se encuentren bajo una emergencia, lo que puede causar el rechazo e inseguridad de los usaurios. |
 ## 5.4. Video About-the-Product.
 
 ![Video](assets/VideoAboutProduct_Image.png)

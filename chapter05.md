@@ -975,9 +975,9 @@ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022136
 
 - **Entrevista #2:**
 
-Nombre y Apellido:
+Nombre y Apellido: Liliana Vasquez
 
-Edad: Liliana Vasquez
+Edad: 45
 
 Distrito: Villa María Del Triunfo
 

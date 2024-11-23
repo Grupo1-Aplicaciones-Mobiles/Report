@@ -758,7 +758,7 @@ Para este cuarto sprint, nos enfocamos en la implementación de la funcionalidad
 ## 5.2.3.9. Sprint Planning 4.
 
 |                                 |                                                                                                                                                                                                                                     |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sprint #                        | Sprint 4                                                                                                                                                                                                                            |
 | Sprint Planning Background      | El propósito de este sprint es continuar el desarrollo de la aplicación móvil, enfocándonos en la integración de nuevas funcionalidades y la optimización del rendimiento.                                                          |
 | Date                            | 2024-11-02                                                                                                                                                                                                                          |
@@ -778,7 +778,7 @@ Para este cuarto sprint, nos enfocamos en la implementación de la funcionalidad
 _Tabla principal del planeamiento del Sprint Backlog 4._
 
 |            |                                                               |                  |                                    |                                                                                                           |                    |                  |                                                 |
-|------------|---------------------------------------------------------------|------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------|------------------|-------------------------------------------------|
+| ---------- | ------------------------------------------------------------- | ---------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ----------------------------------------------- |
 | Sprint #   |                                                               | Sprint 4         |                                    |                                                                                                           |                    |                  |                                                 |
 | User Story |                                                               | Work-Item / Task |                                    |                                                                                                           |                    |                  |                                                 |
 | Id         | Title                                                         | Id               | Title                              | Descripción                                                                                               | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
@@ -793,48 +793,48 @@ _Tabla principal del planeamiento del Sprint Backlog 4._
 
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend y Backend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
-
 - Tabla de los commits realizados principales y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4
 
 | Repository        | Branch                 | Commit Id | Commit Message | Commit Message Body                    | Commited on (Date) |
-|-------------------|------------------------|-----------|----------------|----------------------------------------|--------------------|
+| ----------------- | ---------------------- | --------- | -------------- | -------------------------------------- | ------------------ |
 | safeDrive-Flutter | feature/authentication | d714180   | feat           | change routes & add styles             | 26/10              |
 | safeDrive-service | develop                | ed56976   | feat           | add user attributes and update methods | 07/11              |
 | safeDrive-service | develop                | 8cce9fc   | refactor       | update web security                    | 08/11              |
 | safeDrive-Flutter | feature/authentication | c622235   | feat           | add jwt authentication                 | 08/11              |
 | safeDrive-Flutter | feature/authentication | 8e17a3b   | feat           | change sign up method                  | 09/11              |
 
-
-
 ## 5.2.4.2. Testing Suite Evidence for Sprint Review.
 
 En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
 | Repository        | Branch                     | Commit Id | Commit Message | Commit Message Body             | Commited on (Date) |
-|-------------------|----------------------------|-----------|----------------|---------------------------------|--------------------|
+| ----------------- | -------------------------- | --------- | -------------- | ------------------------------- | ------------------ |
 | safeDrive-Flutter | develop-login_and_register | 7ed42a    | feat           | add test for login and register | 03/11              |
 | safeDrive-service | develop-vehicles           | 5h81f2e   | feat           | add test vehicle credentials    | 03/11              |
 | safeDrive-service | develop-iam                | 5f2d0     | feat           | add test user credentials       | 03/11              |
 | safeDrive-service | develop-tracking           | 055f2d0   | feat           | add test coordinates points     | 03/11              |
 
 ## 5.2.4.3. Execution Evidence for Sprint Review.
+
 Se muestra el Frontend de la aplicación funcional. Las nuevas vistas e interfaces realizadas en este sprint son las siguientes:
 Home <br><br>
 ![Home](assets/home.png) <br><br>
 ![Rastreo](assets/rastrear.png) <br><br>
 ![Rastreo](assets/rastrear2.png) <br><br>
 
-
 ## 5.2.4.4. Services Documentation Evidence for Sprint Review.
+
 Para este sprint, actualizamos y añadimos nuevas pantallas a nuestra aplicación móvil, así como también implementamos la autenticación de usuario y la actualización de coordenadas de usuario y vehículo. A si mismo, se ha realizado la integración de la API para determinar la distancia entre el vehículo y el usuario.
 
 ## 5.2.4.5. Software Deployment Evidence for Sprint Review.
+
 El servicio actualizado con los últimos cambios del sprint, se ha mantenido en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
 ![Deployment](assets/deployservice.png) <br>
 Para el despliegue de la base de datos igualmente se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.<br>
 ![Deployment](assets/db.png)
 
 ## 5.2.4.6. Team Collaboration Insights during Sprint.
+
 Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
 
 ![Collaboration_Insights](assets/Collaboration_Insights_TB4.png)
@@ -846,9 +846,9 @@ Para este quinto sprint, nos enfocamos en continuar el desarrollo de la aplicaci
 ## 5.2.4.8. Sprint Planning 5.
 
 |                                 |                                                                                                                                                                                                                                     |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sprint #                        | Sprint 5                                                                                                                                                                                                                            |
-| Sprint Planning Background      | El propósito de este sprint es culminar con el desarrollo de la aplicación móvil, enfocándonos en las ultimas integraciones funcionalidades sin terminar y  optimización del rendimiento.                                           |
+| Sprint Planning Background      | El propósito de este sprint es culminar con el desarrollo de la aplicación móvil, enfocándonos en las ultimas integraciones funcionalidades sin terminar y optimización del rendimiento.                                            |
 | Date                            | 2024-11-16                                                                                                                                                                                                                          |
 | Time                            | 03:30 PM                                                                                                                                                                                                                            |
 | Location                        | Discord                                                                                                                                                                                                                             |
@@ -866,7 +866,7 @@ Para este quinto sprint, nos enfocamos en continuar el desarrollo de la aplicaci
 _Tabla principal del planeamiento del Sprint Backlog 5._
 
 |            |                           |                  |                                              |                                                                                                            |                    |                  |                                                 |
-|------------|---------------------------|------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|------------------|-------------------------------------------------|
+| ---------- | ------------------------- | ---------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ----------------------------------------------- |
 | Sprint #   |                           | Sprint 5         |                                              |                                                                                                            |                    |                  |                                                 |
 | User Story |                           | Work-Item / Task |                                              |                                                                                                            |                    |                  |                                                 |
 | Id         | Title                     | Id               | Title                                        | Descripción                                                                                                | Estimation (Hours) | Assigned To      | Status (To-do / In / Process / ToReview / Done) |
@@ -878,28 +878,25 @@ _Tabla principal del planeamiento del Sprint Backlog 5._
 
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con el Frontend y Backend. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
 
-
 - Tabla de los commits realizados principales y relacionados con el desarrollo de todas las secciones del Sprint Backlog 5
 
 | Repository        | Branch                 | Commit Id | Commit Message | Commit Message Body                    | Commited on (Date) |
-|-------------------|------------------------|-----------|----------------|----------------------------------------|--------------------|
+| ----------------- | ---------------------- | --------- | -------------- | -------------------------------------- | ------------------ |
 | safeDrive-Flutter | feature/authentication | d714180   | feat           | change routes & add styles             | 26/10              |
 | safeDrive-Flutter | develop                | d715140   | feat           | add user attributes and update methods | 07/11              |
 | safeDrive-Flutter | develop                | d314280   | refactor       | update web security                    | 08/11              |
 | safeDrive-Flutter | feature/authentication | d514280   | feat           | add jwt authentication                 | 08/11              |
 | safeDrive-Flutter | feature/authentication | d114180   | feat           | change sign up method                  | 09/11              |
-| safeDrive-Flutter | develop                | f3cd8e4   | feat           | fix register method                    | 10/11              | 
+| safeDrive-Flutter | develop                | f3cd8e4   | feat           | fix register method                    | 10/11              |
 | safeDrive-Flutter | develop                | 439afcb   | feat           | updated map tracking with markers      | 10/11              |
 | safeDrive-Flutter | develop                | 6c68151   | fix            | fixed routes                           | 10/11              |
-
-
 
 ## 5.2.5.1. Testing Suite Evidence for Sprint Review.
 
 En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
 | Repository        | Branch                     | Commit Id | Commit Message | Commit Message Body             | Commited on (Date) |
-|-------------------|----------------------------|-----------|----------------|---------------------------------|--------------------|
+| ----------------- | -------------------------- | --------- | -------------- | ------------------------------- | ------------------ |
 | safeDrive-Flutter | develop-login_and_register | 7ed42a    | feat           | add test for login and register | 03/11              |
 | safeDrive-service | develop-vehicles           | 5h81f2e   | feat           | add test vehicle credentials    | 03/11              |
 | safeDrive-service | develop-iam                | 5f2d0     | feat           | add test user credentials       | 03/11              |
@@ -907,18 +904,30 @@ En esta sección, presentamos la evidencia de las pruebas realizadas durante el 
 
 ## 5.2.5.2. Execution Evidence for Sprint Review.
 
+![Evidence1](assets/Execution1.png)
+![Evidence2](assets/Execution2.png)
+![Evidence3](assets/Execution3.png)
+![Evidence4](assets/Execution4.png)
+![Evidence5](assets/Execution5.png)
+![Evidence6](assets/Execution6.png)
+![Evidence7](assets/Execution7.png)
+![Evidence8](assets/Execution8.png)
+
 ## 5.2.5.3. Services Documentation Evidence for Sprint Review.
 
+![Service1](assets/Service1.png)
+![Service2](assets/Service2.png)
+
 ## 5.2.5.4. Software Deployment Evidence for Sprint Review.
+
 Los servicios se mantienen en heroKu, una plataforma que permite a los desarrolladores construir, ejecutar y operar aplicaciones en la nube.
 ![Deployment](assets/deployservice.png) <br>
 Para el despliegue de la base de datos se ha utilizado aws, una plataforma que ofrece servicios de almacenamiento en la nube, bases de datos y otras funcionalidades para ayudar a las empresas a escalar y crecer.<br>
 ![Deployment](assets/db.png)
 
 ## 5.2.5.5. Team Collaboration Insights during Sprint.
+
 Para la realización de este sprint, hemos mantenido contacto continuo mediante reuniones semanales y utilizando herramientas como Discord o Whatsapp. Distribuimos las tareas y responsabilidades de manera equitativa entre los miembros del equipo para facilitar el trabajo constante y equilibrado. Esta comunicación ha sido fundamental para lograr el avance del Frontend de nuestra aplicación, ya que cada uno de los miembros del equipo pudo compartir sus conocimientos en el desarrollo móvil permitiendo que todos aprendiéramos de la experiencia compartida.
-
-
 
 ## 5.3. Validation Interviews.
 
@@ -988,29 +997,15 @@ Distrito: Villa María Del Triunfo
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/Ee_72-n8gZZAnEjGW8GiqhIB2DJ05RP2rB29y7tvu5bDuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yH5ZpQ
 
-**Resumen:** El usuario mostró agrado por la aplicación, destacando su funcionalidad principal y brindando sugerencias y recomendaciones para poder mejorar sus funcionalidades. 
-
-- **Entrevista #3:**
-
-Nombre y Apellido:
-
-Edad:
-
-Distrito:
-
-![Entrevista1](assets/)
-
-Enlace de entrevista:
-
-**Resumen:**
+**Resumen:** El usuario mostró agrado por la aplicación, destacando su funcionalidad principal y brindando sugerencias y recomendaciones para poder mejorar sus funcionalidades.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-
 | Problema                                    | Heurística Violada                    | Severidad | Descripcion del problema                                                                                                                                                                                 |
-|---------------------------------------------|---------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------- | ------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Falta de claridad en opciones de navegación | Reconocimiento de opciones y acciones | 3         | Los usuarios pueden sentirse perdidos al querer navegar por las opciones de la aplicación ya que algunas de las opciones no son lo suficientemente claras, por lo que pueden perder interés.             |
 | Falta de botón de pánico para los usuarios  | Ayuda y documentación                 | 2         | La falta de un botón de pánico puede causar que los usuarios no puedan reportar una situación en la que se encuentren bajo una emergencia, lo que puede causar el rechazo e inseguridad de los usaurios. |
+
 ## 5.4. Video About-the-Product.
 
 ![Video](assets/VideoAboutProduct_Image.png)
@@ -1021,27 +1016,36 @@ https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 ## Conclusiones
 
 ## Conclusiones y recomendaciones.
+
 - Durante el desarrollo de los sprints, logramos implementar un Frontend funcional y atractivo para nuestra aplicación móvil, utilizando Flutter para mejorar la experiencia del usuario y optimizar el rendimiento de la aplicación.
 - Aprender y lograr implementar las funcionalidades clave de la aplicación, como la autenticación de usuario, la actualización de coordenadas de usuario y vehículo, y la integración de la API de rastreo en tiempo real, nos permitió avanzar significativamente hacia la entrega de un producto funcional y listo para su lanzamiento.
 - Las entrevistas de validación con usuarios fue esencial para obtener retroalimentación sobre la experiencia de uso de la aplicación, identificar áreas de mejora y adaptar la aplicación a las necesidades y expectativas de nuestros usuarios.
 - El despliegue de nuestra aplicación en HeroKu y AWS garantiza la disponibilidad y escalabilidad, asegurando que nuestros usuarios puedan acceder a la aplicación de manera segura y eficiente.
 - Mantener una comunicación constante y equitativa entre los miembros del equipo, fue importante para la distribución de las tareas de manera equilibrada y asegurarnos un avance constante y equilibrado en el desarrollo de la aplicación.
 
-
 ## Video App Validation
 
+![Video_AppValidation](assets/App_Validation.png)
+
+Enlace: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EbiO_EvUM4RDuRHmTtvexBkBtWfd9qynBCcOh3SPPgVAcg?e=Fvvdyu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Video About the product
+
 ![Video](assets/VideoAboutProduct_Image.png)
 <br>
 Enlace del video: <br>
 https://youtu.be/WDJ-XRbNykY?si=MlSkqI13CQAbPe12
 
 ## Video About the team
+
 ![Video](assets/AboutTheTeam_Imagen.png)
 <br>
 Enlace del video: <br>
-https://youtu.be/dJs9D_2jW8U
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ES2CarYfPJJIpQW8qERlxK8Bhq9_WzpSacGvydKnz_F6Pw?e=9mM41b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Glosario
+
 - **API:** Interfaz de programación de aplicaciones.
 - **Flutter:** Framework de código abierto creado por Google para desarrollar aplicaciones móviles.
 - **Frontend:** Parte de la aplicación que interactúa con el usuario.
@@ -1058,6 +1062,7 @@ https://youtu.be/dJs9D_2jW8U
 - **Retrofit:** Biblioteca de Android para consumir servicios web.
 
 ## Bibliografía
+
 - Flutter. (2024). Flutter. Recuperado de https://flutter.dev/
 - GitHub. (2024). GitHub. Recuperado de https://github.com
 - HeroKu. (2024). HeroKu. Recuperado de https://www.heroku.com/
@@ -1067,4 +1072,5 @@ https://youtu.be/dJs9D_2jW8U
 - Google. (2024). Google. Recuperado de https://www.google.com/
 
 ## Anexos
+
 - **Anexo 1:** [Entrevista #1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EZ43ddB2yk5BicL8laoF184BNuTU_TiFWMpnxf_JaqSkrQ?e=Tj0b9w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

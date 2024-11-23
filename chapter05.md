@@ -993,11 +993,25 @@ Edad: 45
 
 Distrito: Villa María Del Triunfo
 
-![Entrevista1](assets/Entrevista_Producto_Paolo.png)
+![Entrevista2](assets/Entrevista_Producto_Paolo.png)
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/Ee_72-n8gZZAnEjGW8GiqhIB2DJ05RP2rB29y7tvu5bDuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yH5ZpQ
 
 **Resumen:** El usuario mostró agrado por la aplicación, destacando su funcionalidad principal y brindando sugerencias y recomendaciones para poder mejorar sus funcionalidades.
+
+- **Entrevista #3:**
+
+Nombre y Apellido: Azucena Lavado
+
+Edad: 20
+
+Distrito: Chorrillos
+
+![Entrevista3](assets/Entrevista_Producto_Moises.png)
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/EbVpCqvHl8VPg4CRYxWkaQUBnStJezdMelhmcK5GQCgN9w?e=Yn3ZUH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen:** El se mostró satisfecho con la aplicación, le gustaron las diversas funcionalidades que tiene, sin embargo para mejorar la aplicación se sugirió poder tener la ubicación automatica de los usuarios y una mejora en el diseño ya que unos botones no se logran visualizar.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 

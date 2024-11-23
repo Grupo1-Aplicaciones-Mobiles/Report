@@ -152,14 +152,7 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Smart Goals
 
-Los objetivos SMART son una metodología que permite definir metas de manera clara y estructurada, asegurando que sean específicas, medibles, alcanzables, relevantes y limitadas en el tiempo. Este enfoque facilita el seguimiento del progreso y aumenta la probabilidad de éxito en el cumplimiento de los objetivos.
-
-S (Specific): El objetivo debe ser concreto y responder a qué se quiere lograr, quién está involucrado y por qué es importante.
-M (Measurable): Es necesario que el objetivo pueda evaluarse a través de indicadores cuantificables.
-A (Achievable): El objetivo debe ser realista y posible de alcanzar con los recursos y conocimientos disponibles.
-R (Relevant): El objetivo debe ser relevante y alinearse con las metas generales o necesidades del proyecto o desarrollo personal.
-T (Time-bound): Es fundamental establecer un plazo límite para el cumplimiento del objetivo.
-Este método permite a los integrantes del equipo enfocar sus esfuerzos en metas bien definidas, optimizando su tiempo y recursos para maximizar el impacto de su desarrollo profesional.
+Los objetivos SMART son una herramienta utilizada para definir metas de manera clara, estructurada y efectiva, asegurando que sean específicas, medibles, alcanzables, relevantes y limitadas en el tiempo. Este enfoque permite plantear objetivos que respondan con precisión a qué se quiere lograr, quién está involucrado, por qué es importante y cómo se medirán los resultados. Además, garantiza que las metas sean realistas y se puedan alcanzar con los recursos y conocimientos disponibles, al tiempo que se alineen con prioridades relevantes para el desarrollo personal o profesional. Finalmente, al establecer un plazo definido para su cumplimiento, los objetivos SMART fomentan el enfoque y la disciplina necesarios para trabajar de manera eficiente y cumplir con las metas propuestas dentro de un marco temporal establecido.
 
 Paolo Del Carmen Martinez Villanueva
 

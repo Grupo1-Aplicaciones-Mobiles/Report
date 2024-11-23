@@ -154,9 +154,9 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 Los objetivos SMART son una herramienta utilizada para definir metas de manera clara, estructurada y efectiva, asegurando que sean específicas, medibles, alcanzables, relevantes y limitadas en el tiempo. Este enfoque permite plantear objetivos que respondan con precisión a qué se quiere lograr, quién está involucrado, por qué es importante y cómo se medirán los resultados. Además, garantiza que las metas sean realistas y se puedan alcanzar con los recursos y conocimientos disponibles, al tiempo que se alineen con prioridades relevantes para el desarrollo personal o profesional. Finalmente, al establecer un plazo definido para su cumplimiento, los objetivos SMART fomentan el enfoque y la disciplina necesarios para trabajar de manera eficiente y cumplir con las metas propuestas dentro de un marco temporal establecido.
 
-Paolo Del Carmen Martinez Villanueva
+### Paolo Del Carmen Martinez Villanueva
 
-Objetivo 1
+## Objetivo 1
 
 | **Campo**                          | **Descripción**                                                                                                                                                                                                   |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -169,7 +169,7 @@ Objetivo 1
 | **R - Relevant**                   | El dominio de microservicios es crucial para trabajar en entornos de desarrollo de software modernos y escalables.                                                                                                |
 | **T - Time-bound**                 | Finalizar los proyectos antes del 30 de octubre del 2024, revisando avances cada dos semanas.                                                                                                                     |
 
-Objetivo 2
+## Objetivo 2
 
 | **Campo**                          | **Descripción**                                                                                                                                                                                                   |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1011,7 +1011,7 @@ Distrito: Chorrillos
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/EbVpCqvHl8VPg4CRYxWkaQUBnStJezdMelhmcK5GQCgN9w?e=Yn3ZUH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen:** El se mostró satisfecho con la aplicación, le gustaron las diversas funcionalidades que tiene, sin embargo para mejorar la aplicación se sugirió poder tener la ubicación automatica de los usuarios y una mejora en el diseño ya que unos botones no se logran visualizar.
+**Resumen:** El usuario se mostró satisfecho con la aplicación, le gustaron las diversas funcionalidades que tiene, sin embargo para mejorar la aplicación se sugirió poder tener la ubicación automatica de los usuarios y una mejora en el diseño ya que unos botones no se logran visualizar.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
@@ -1019,6 +1019,7 @@ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022160
 | ------------------------------------------- | ------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Falta de claridad en opciones de navegación | Reconocimiento de opciones y acciones | 3         | Los usuarios pueden sentirse perdidos al querer navegar por las opciones de la aplicación ya que algunas de las opciones no son lo suficientemente claras, por lo que pueden perder interés.             |
 | Falta de botón de pánico para los usuarios  | Ayuda y documentación                 | 2         | La falta de un botón de pánico puede causar que los usuarios no puedan reportar una situación en la que se encuentren bajo una emergencia, lo que puede causar el rechazo e inseguridad de los usaurios. |
+| Falta de ubicación automática en tiempo real  | AVisibilidad del estado del sistema                 | 3         | La falta de la función de ubicación automática puede hacer que los usuarios pierdan tiempo buscando su ubicación manualmente, lo que afecta la experiencia de uso y disminuye la percepción de utilidad. |
 
 ## 5.4. Video About-the-Product.
 
